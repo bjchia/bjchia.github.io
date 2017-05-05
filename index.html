@@ -15,7 +15,7 @@ body, html {
 }
 
 /* Create a Parallax Effect */
-.bgimg-1, .bgimg-2, .bgimg-3 {
+.bgimg-1, .bgimg-2, .bgimg-3 .bgimg-4 {
     background-attachment: fixed;
     background-position: center;
     background-repeat: no-repeat;
@@ -35,11 +35,16 @@ body, html {
 }
 /*3rd Image (Contact) */
 .bgimg-3 {
-    
     background-image: url("https://c1.staticflickr.com/5/4170/34077077700_9e0ed0b4e2_b.jpg");
     min-height: 400px;
 }
 
+/*4th Image (Brain Flow) */
+    .bgimg-4 {
+    background-image: url("https://c1.staticflickr.com/5/4174/34433527136_0b6ed81fed_h.jpg");
+    min-height: 400px;
+}
+   
 .w3-wide {letter-spacing: 10px;}
 .w3-hover-opacity {cursor: pointer;}
 
@@ -303,6 +308,13 @@ function toggleFunction() {
 To use this code on your website, get a free API key from Google.
 Read more at: https://www.w3schools.com/graphics/google_maps_basic.asp
 -->
+    
+<!-- Fourth Parallax Image with Portfolio Text -->
+<div class="bgimg-2 w3-display-container w3-opacity-min">
+  <div class="w3-display-middle">
+    <span class="w3-xxlarge w3-text-white w3-wide">BRAIN FLOW</span>
+  </div>
+</div>
 
 </body>
 </html>
