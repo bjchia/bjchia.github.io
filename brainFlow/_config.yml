@@ -12,7 +12,7 @@ url:                 https://bjchia.github.io/brainFlow/
 baseurl:             ''
 paginate:            1
 paginate_path: "/index/page:num/"
-gems: [jekyll-paginate]
+plugins: [jekyll-paginate]
 
 # About/contact
 author:
