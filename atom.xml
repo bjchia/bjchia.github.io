@@ -4,7 +4,6 @@ layout: null
 
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-<link rel="stylesheet" href="brainFlow/public/css/lanyon.css"></link>
 
  <title>{{ site.title }}</title>
  <link href="{{ site.url }}{{ site.baseurl }}/atom.xml" rel="self"/>
