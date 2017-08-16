@@ -1,0 +1,24 @@
+# Permalinks
+#
+# Use of `relative_permalinks` ensures post links from the index work properly.
+permalink:           pretty
+relative_permalinks: true
+
+# Setup
+title:               Brain Flow
+tagline:             'A Jekyll theme'
+description:         'THIS IS ALL A TEST<a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme that places the utmost gravity on content with a hidden drawer. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
+url:                 https://bjchia.github.io/brainFlow/
+baseurl:             ''
+paginate:            1
+paginate_path: "/index/page:num/"
+plugins: [jekyll-paginate]
+
+# About/contact
+author:
+  name:              Benjamin Chia
+  url:               https://twitter.com/mdo
+  email:             markdotto@gmail.com
+
+# Custom vars
+version:             1.0.0
