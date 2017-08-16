@@ -9,7 +9,7 @@ description:         'A reserved <a href="http://jekyllrb.com" target="_blank">J
 url:                 http://lanyon.getpoole.com
 baseurl:             ''
 paginate:            1
-set paginate_path: Blog/index.html:num
+set paginate_path: blog/index.html:num
 
 # About/contact
 author:
