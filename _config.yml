@@ -5,7 +5,7 @@
 # Setup
 title:               Brain Flow
 tagline:             'The talking of soul with itself'
-description:         'A container separating different thoughts, ideas, and projects I've been working on. Click <a href="bjchia.github.io" target="_blank">here</a> to go back to main page.'
+description:         'A drawer separating different thoughts, ideas, and projects I've been working on. Click <a href="bjchia.github.io" target="_blank">here</a> to go back to main page.'
 url:                 http://lanyon.getpoole.com
 baseurl:             ''
 paginate:            1
