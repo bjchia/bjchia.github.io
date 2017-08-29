@@ -3,7 +3,7 @@
 # Use of `relative_permalinks` ensures post links from the index work properly.
 
 # Setup
-title:               Brain Flow
+title:               "Brain Flow"
 tagline:             'The talking of soul with itself'
 description:         'A drawer separating different thoughts, ideas, and projects I've been working on. Click <a href="bjchia.github.io" target="_blank">here</a> to go back to main page.'
 url:                 http://lanyon.getpoole.com
