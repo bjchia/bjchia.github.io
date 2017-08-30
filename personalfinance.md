@@ -22,6 +22,7 @@ To-Do/To-Read List:
 * Don't spend impulsively. Before you buy something, wait anywhere from a day to a week to see if you still want it. 
 * Make money work for you by applying to scholarships (note to self: start applying by fall quarter).
   
+  <br> <br> <br> <br>
 ### Key Points from Rich Dad Poor Dad 
 
 Some fun facts about the setup of this project include:
