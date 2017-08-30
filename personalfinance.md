@@ -21,8 +21,8 @@ To-Do/To-Read List:
 * Meal Prep. Buying in bulk saves you so much money. If a typical meal from restaurant costs $8-10, I can meal prep roughly 10 meals of chicken, rice, and broccoli for the same price. 
 * Don't spend impulsively. Before you buy something, wait anywhere from a day to a week to see if you still want it. 
 * Make money work for you by applying to scholarships (note to self: start applying by fall quarter).
-  
-  <br> <br> <br> <br>
+
+  <br> <br> <br>
 ### Key Points from Rich Dad Poor Dad 
 
 Some fun facts about the setup of this project include:
