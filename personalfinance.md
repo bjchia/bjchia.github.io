@@ -4,10 +4,10 @@ title: Personal Finance
 ---
 
 <p class="message">
-"The poor and the middle class work for money. The rich have money work for them." 
+"The poor and the middle class **work for money**. The rich have **money work for them**." 
 </p>
 
-In the novel, *The Strange Case of Dr. Jeykll and Mr. Hyde*, Mr. Poole is Dr. Jekyll's virtuous and loyal butler. Similarly, Poole is an upstanding and effective butler that helps you build Jekyll themes. It's made by [@mdo](https://twitter.com/mdo).
+During the beginning of the summer of 2017, I became highly intrigued with financial education and literacy. As a college student, I wanted to have a good grasp over my finances and to have a steady source of income. A book I highly recommend (recommended to me by a fellow mentor) is called [*Rich Dad Poor Dad](http://www.lequydonhanoi.edu.vn/upload_images/S%C3%A1ch%20ngo%E1%BA%A1i%20ng%E1%BB%AF/Rich%20Dad%20Poor%20Dad.pdf) by Robert Kiyosaki. Invest in your education outside traditional academia!
 
 There are currently two themes built on Poole:
 
