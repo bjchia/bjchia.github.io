@@ -4,7 +4,7 @@ title: Personal Finance
 ---
 
 <p class="message">
-"The poor and the middle class <b>work for money<b>. The rich have money <b>work for them<b>." 
+"The poor and the middle class work for money. The rich have money <b>work for them." 
 </p>
 
 In the novel, *The Strange Case of Dr. Jeykll and Mr. Hyde*, Mr. Poole is Dr. Jekyll's virtuous and loyal butler. Similarly, Poole is an upstanding and effective butler that helps you build Jekyll themes. It's made by [@mdo](https://twitter.com/mdo).
