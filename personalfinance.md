@@ -8,8 +8,8 @@ title: Personal Finance
 </p>
 
 During the beginning of the summer of 2017, I became highly intrigued with financial education and literacy. As a current college student, I wanted to have a good grasp over my finances and to maintain a steady source of income. A book I highly recommend (recommended to me by a fellow mentor) is called [*Rich Dad Poor Dad*](http://www.lequydonhanoi.edu.vn/upload_images/S%C3%A1ch%20ngo%E1%BA%A1i%20ng%E1%BB%AF/Rich%20Dad%20Poor%20Dad.pdf) by Robert Kiyosaki. Invest in your education outside traditional academia!
-  
-  
+  <br> 
+  <br>
 To-Do/To-Read List:
 
 * *The Intelligient Investor* by Benjamin Graham
