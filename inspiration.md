@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Tester
+title: Idea Inspiration 
 ---
 
 <p class="message">
