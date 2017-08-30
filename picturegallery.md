@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Personal Finance
+title: Picture Gallery
 ---
 
 <p class="message">
