@@ -22,3 +22,5 @@ Ask for one thing:   "Can I send you my resume for review via email?"
 Certainly no guarantees, but best to start simple.  Let Recruiters see/shop your resume before you ask for more.
 
 Thoughts?
+
+https://www.linkedin.com/pulse/how-network-recruiter-margaret-buj
