@@ -3,19 +3,16 @@ layout: page
 title: Goals
 ---
 
-<p class="message">
-  Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
-</p>
 
-In the novel, *The Strange Case of Dr. Jeykll and Mr. Hyde*, Mr. Poole is Dr. Jekyll's virtuous and loyal butler. Similarly, Poole is an upstanding and effective butler that helps you build Jekyll themes. It's made by [@mdo](https://twitter.com/mdo).
+Long Term Goals: 
 
-There are currently two themes built on Poole:
+2017-2018 Goals: 
 
-* [Hyde](http://hyde.getpoole.com)
-* [Lanyon](http://lanyon.getpoole.com)
+2016-2017 Goals: 
 
-Learn more and contribute on [GitHub](https://github.com/poole).
+Fall Quarter
 
-## Setup
+Winter Quarter 
 
-Some fun facts about the setup of this project include:
+Spring Quarter 
+
