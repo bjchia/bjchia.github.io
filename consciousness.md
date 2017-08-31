@@ -35,6 +35,9 @@ Motivation is bullshit, it comes and goes. Discipline is what will inspire you.
 
 "The whole idea of motivation is a trap. Forget motivation. Just do it. Exercise, lose weight, test your blood sugar, or whatever. And then, guess what? After you start doing the thing, that’s when motivation comes and makes it easy for you to keep on doing it.” -John Maxwell
 
+### Overcoming Failure
+“If you’re afraid to fail, you’re probably going to fail.”-Kobe Bryant
+
 “The only way of finding the limits of the possible is by going beyond them into the impossible.” -Arthur C. Clarke
 
 "Be not afraid of growing slowly. Be afraid of standing still.” -Chinese Proverb      
@@ -42,9 +45,6 @@ Motivation is bullshit, it comes and goes. Discipline is what will inspire you.
 Dream no small dreams for they have no power to move the hearts of men. - Johann Wolfgang Von Goethe
 
 “He would say that when your mind is telling you you’re done, you’re really only 40 percent done. And he had a motto: If it doesn’t suck we don’t do it. And that was his way of forcing us to get uncomfortable to figure out what our baseline was and what our comfort level was and just turning it upside-down.” [Living with a Seal](https://www.amazon.com/Living-SEAL-Training-Toughest-Planet/dp/B0176MAG1M)
-
-### Overcoming Failure
-“If you’re afraid to fail, you’re probably going to fail.”-Kobe Bryant
 
 ### Feeling Lost 
 
@@ -65,8 +65,6 @@ ourselves."—FRANÇOIS DE LA ROCHEFOUCAULD
 "People hate to think about bad things happening, so they always underestimate their likelihood”- The Big Short
 
 I think therefore I am -Rene Descartes 
-
-## Enjoy Life 
 
 ## Personal Experiences 
 
@@ -89,6 +87,8 @@ Fitness as a form of escapism
 With each success should come a bigger more ambitious goal 
 
 There is not one specific meaning in life. You constantly redefine and find meaning through the experiences you undertake in life. 
+
+## Enjoy Life 
 
 ## Miscellaneous 
 
