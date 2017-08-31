@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Quotes
+title: Stream of Consciousness 
 ---
 
 <p class="message">
