@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Quotes
+title: Goals
 ---
 
 <p class="message">
