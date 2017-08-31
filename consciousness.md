@@ -26,8 +26,12 @@ This isn't a good outlook. It's not even two sides of the same coin - it's the e
 
 
 ## Motivation 
-  
-## Feeling Lost 
+
+
+### Overcoming Failure
+“If you’re afraid to fail, you’re probably going to fail.”-Kobe Bryant
+
+### Feeling Lost 
 
 ‘When you feel homesick,’ he said, ‘just look up. Because the moon is the same wherever you go.’
 
