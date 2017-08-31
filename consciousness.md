@@ -2,8 +2,7 @@
 layout: page
 title: Stream of Consciousness 
 ---
-** Life Hacks 
-
+## Life Hacks 
 The best habit I have got into is having a pint of water next to my bed. So when my alarm wakes me up I have to finish the glass.
   -One of the reasons people feel tired and lethargic in the morning is that they're dehydrated. Chances are you haven't drunk anything for 9 or 10+ hours. Look at the colour of your urine when you first pee in the morning, very rarely is it clear.
   
@@ -12,7 +11,7 @@ Dark chocolate helps with public speaking. -Gabe Jagoe-Seidl
 When studying for an exam or test, wear a perfume/cologne you've never used before. When the day of the test comes, use the perfume/cologne again. The scent will trigger your memory.
 
 
-**Counterperspectives 
+## Counterperspectives 
 
 [Comic Counter-Point](http://imgur.com/2RGMbYJ)
 
@@ -26,13 +25,13 @@ This isn't a good outlook. It's not even two sides of the same coin - it's the e
 4. And oh, when you add irrepressible curiosity to creativity, you walk the lines of EVERY great individual who ever did great stuff. Anyone. You name it, they've done it.
 
 
-**Motivation 
+## Motivation 
   
-** Feeling Lost 
+## Feeling Lost 
 
 ‘When you feel homesick,’ he said, ‘just look up. Because the moon is the same wherever you go.’
 
-** Intriguing Quotes
+## Intriguing Quotes
 
 “The mass of men lead lives of quiet desperation.” “A stereotyped but unconscious despair
 is concealed even under what are called the games and amusements of mankind.”
@@ -40,9 +39,9 @@ is concealed even under what are called the games and amusements of mankind.”
 "We are so accustomed to disguise ourselves to others, that in the end, we become disguised to
 ourselves."—FRANÇOIS DE LA ROCHEFOUCAULD
 
-** Enjoy Life 
+## Enjoy Life 
 
-** Life Pro Tips 
+## Life Pro Tips 
 
 Set two new goals each quarter. -[Vincent Yang](vincentyang.me) 
 
