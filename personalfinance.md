@@ -32,7 +32,7 @@ To-Do/To-Read List:
 * To become financially secure, a person needs to **mind their own business**. Your business revolves around your asset column, not your income column. 
 * Know the difference between your profession and your OWN business. 
 
-#### Assets 
+#### **Assets** 
 1. *Businesses that do not require my presence* I own them, but they are managed or run by other people. If I have to work there, it’s not a business. It becomes my job. 
 2. Stocks 
 3. Bonds 
@@ -43,7 +43,7 @@ To-Do/To-Read List:
 
 > I recognized that it was excessive fear and self-doubt that were the greatest detractors of personal genius. It broke my heart to see students know the answers, yet lack the courage to act on the answer. Often in the real world, it’s not the smart who get ahead, but the bold. 
 
-#### Financial Intelligience 
+#### **Financial Intelligience** 
 * Accounting: Accounting is financial literacy, or the ability to read numbers. is is a vital skill if you want to build businesses or investments. 
 * Investing: The science of money making money.
 * Investors who create investments: 
