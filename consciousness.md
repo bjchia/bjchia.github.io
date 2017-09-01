@@ -5,16 +5,24 @@ title: Stream of Consciousness
 ## Life Tips
 The best habit I have got into is having a pint of water next to my bed. So when my alarm wakes me up I have to finish the glass.
   - One of the reasons people feel tired and lethargic in the morning is that they're dehydrated. Chances are you haven't drunk anything for 9 or 10+ hours. Look at the colour of your urine when you first pee in the morning, very rarely is it clear.
-  
-Dark chocolate helps with public speaking. -Gabe Jagoe-Seidl
 
-When studying for an exam or test, wear a perfume/cologne you've never used before. When the day of the test comes, use the perfume/cologne again. The scent will trigger your memory.
-
+The reason why it's so hard, is because our human thinking is biased towards the negative. When we're faced with a choice, it's more likely we're considering the negatives then the positives of making a change. This is also called "risk aversion".
+  - A classic fallacy that comes from risk aversion is "sunk cost". The more time and effort we put in a project, the less likely we are to pull out because we don't want to lose our investment.
+ 
 Going into a situation thinking you're doing just for the experience takes a lot of the pressure off, too, and helps get positive results.
 
 "If you don't ask, the answer is always no."
 
 The failure is just not trying.
+
+“A last important trick is to reframe your focus. One student, for example, is able to get himself up at four thirty each weekday morning, not by thinking about how tired he is when he wakes but about how good breakfast will be.”
+
+[Long term procrastination makes us seem like a spectator in our own lives.] (https://www.ted.com/talks/tim_urban_inside_the_mind_of_a_master_procrastinator)
+
+“The dread of doing a task uses up more time and energy than doing the task itself”
+
+When studying for an exam or test, wear a perfume/cologne you've never used before. When the day of the test comes, use the perfume/cologne again. The scent will trigger your memory.
+
 
 ### Feeling Lost 
 
@@ -34,6 +42,10 @@ Bad day, not a bad life. There is always some good in a bad day.
 
 “It doesn’t matter where you go,” he wrote. “It matters more what you do when you get there. Just go there and work.”
 
+What we do know is, if you're not prepared to be wrong, you'll never come up with anything original -- if you're not prepared to be wrong.
+
+The wind gets stronger the closer you get to the mountain top.
+
 ## Intriguing Notions/Beliefs
 
 “The mass of men lead lives of quiet desperation.” “A stereotyped but unconscious despair
@@ -45,6 +57,8 @@ ourselves."—FRANÇOIS DE LA ROCHEFOUCAULD
 "People hate to think about bad things happening, so they always underestimate their likelihood”- The Big Short
 
 I think therefore I am -Rene Descartes 
+
+Is value absolute? (r/writingprompts) 
 
 ## Personal Experiences 
 
@@ -69,6 +83,8 @@ With each success should come a bigger more ambitious goal
 There is not one specific meaning in life. You constantly redefine and find meaning through the experiences you undertake in life. 
 
 The man makes the name, not vice versa.
+
+Dark chocolate helps with public speaking. -Gabe Jagoe-Seidl
 
 ## Enjoy Life/Social Good 
 
