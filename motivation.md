@@ -15,6 +15,8 @@ Motivation is bullshit, it comes and goes. Discipline is what will inspire you.
 
 The older you are, the harder you have to work
 
+Embracing your fears to turn that into the biggest gift in your life
+
 **Source of Fountain of Youth: Work**
 
 
@@ -29,4 +31,5 @@ Dream no small dreams for they have no power to move the hearts of men. - Johann
 
 “He would say that when your mind is telling you you’re done, you’re really only 40 percent done. And he had a motto: If it doesn’t suck we don’t do it. And that was his way of forcing us to get uncomfortable to figure out what our baseline was and what our comfort level was and just turning it upside-down.” [Living with a Seal](https://www.amazon.com/Living-SEAL-Training-Toughest-Planet/dp/B0176MAG1M)
 
+And we don't have to be those people to learn about rejection, and in my case, rejection was my curse, was my boogeyman. It has bothered me my whole life because I was running away from it. Then I started embracing it. I turned that into the biggest gift in my life.
 Struggle forces us to move when we would otherwise stand still.
