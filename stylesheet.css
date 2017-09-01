@@ -68,40 +68,12 @@ a.socialIcon:hover, .socialHoverClass {
 	transition: all 0.8s;
 }
 
-/** TYPED AREA **//
-h2 {
-    font-weight: 300;
+/*Typing animation*/
+body {
+  background-color:##ffffff;
+  text-align: center;
+  color:#cccccc;
+  padding-top:10em;
 }
 
-.verb-title {
-    font-size: 40px;
-    font-weight: 300;
-}
-
-.verb {
-    border-bottom:3px dotted #ccc; 
-}
-
-.question, .make, .invent, .code, .design{
-    font-weight: bold;
-}
-
-.question {
-    color: #f05a28;
-}
-
-.make{
-    color: #7546b2;
-}
-
-.invent {
-    color: #2cb5e5;
-}
-
-.code {
-    color: #39b54a;
-}
-
-.design {
-    color: #ef4136;
-}
+* { color:#cccccc; text-decoration: none;}
