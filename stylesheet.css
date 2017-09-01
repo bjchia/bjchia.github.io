@@ -70,10 +70,10 @@ a.socialIcon:hover, .socialHoverClass {
 
 /*Typing animation*/
 body {
-  background-color:##ffffff;
+  background-color:#ce3635;
   text-align: center;
-  color:#cccccc;
+  color:#fff;
   padding-top:10em;
 }
 
-* { color:#cccccc; text-decoration: none;}
+* { color:#fff; text-decoration: none;}
