@@ -92,7 +92,7 @@ Dark chocolate helps with public speaking. -Gabe Jagoe-Seidl
 
 ## Counterperspectives 
 
-[Work & Play](http://imgur.com/2RGMbYJ){:class="img-responsive"}
+![Work & Play](http://imgur.com/2RGMbYJ){:class="img-responsive"}
 [Comic Counter-Point](https://www.reddit.com/r/GetMotivated/comments/4zp4um/image_i_have_this_cartoon_on_my_corkboard_now_and/)
 
 **Your time is valuable because you have a limited amount of it** 
