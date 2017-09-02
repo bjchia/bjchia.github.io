@@ -14,3 +14,9 @@ title: Health & Fitness
   - 9:00-11:00 AM
 * Sunday: Chest/Tricep 
   - 9:00-11:00 AM
+
+| Exercise | Sets (4 x 6) | One Rep. Max |
+|-------|--------|---------|
+| Bench Press | 150 | 175 |
+| Deadlift | 215 | N/A |
+| Squat | 185 | N/A |
