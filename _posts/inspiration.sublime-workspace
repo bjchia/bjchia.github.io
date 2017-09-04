@@ -1,0 +1,363 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"cou",
+				"CountOnNeighborCells"
+			],
+			[
+				"Cell",
+				"CellState"
+			],
+			[
+				"c",
+				"connectfour"
+			],
+			[
+				"Game",
+				"gameboard"
+			],
+			[
+				"Flush",
+				"flushStdin"
+			],
+			[
+				"category",
+				"categoryScores"
+			],
+			[
+				"contin",
+				"continueThrough"
+			],
+			[
+				"rero",
+				"rerollsLeft"
+			],
+			[
+				"cater",
+				"categoryScores"
+			],
+			[
+				"saved",
+				"savedDice"
+			],
+			[
+				"categor",
+				"categoryScores"
+			],
+			[
+				"lower",
+				"lowerGuess"
+			],
+			[
+				"upp",
+				"upperGuess"
+			],
+			[
+				"l",
+				"liquid"
+			],
+			[
+				"return",
+				"returnUnit"
+			],
+			[
+				"doub",
+				"doubleQuotes"
+			],
+			[
+				"Tota",
+				"TotalSeconds"
+			],
+			[
+				"Final",
+				"FinalWorth"
+			],
+			[
+				"wage",
+				"wageCents"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 167.0,
+		"last_filter": "github: ",
+		"selected_items":
+		[
+			[
+				"github: ",
+				"github: open repo"
+			],
+			[
+				"git log",
+				"git: log"
+			],
+			[
+				"status",
+				"git: status"
+			],
+			[
+				"branch",
+				"git: branch"
+			],
+			[
+				"package control",
+				"Package Control: Install Package"
+			],
+			[
+				"git: branch",
+				"git: branch"
+			],
+			[
+				"git bran",
+				"git: reset to branch"
+			],
+			[
+				"pack controL",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 449.0
+	},
+	"console":
+	{
+		"height": 154.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = 'df21e130d211cfc94d9b0905775a7c0f' + '1e3d39e33b79698005270310898eea76'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/BenjaminChia/bjchia.github.io/_posts/notetoself.md",
+		"/Users/BenjaminChia/bjchia.github.io/index.html",
+		"/Users/BenjaminChia/bjchia.github.io/Pictures",
+		"/Users/BenjaminChia/ECS_30/Homework6/connectfour.c",
+		"/Users/BenjaminChia/Desktop/ECS_40/Program_#1/strtok.c",
+		"/Users/BenjaminChia/Desktop/ECS_40/Program_#1/time.h",
+		"/Users/BenjaminChia/Desktop/ECS_40/Program_#1/appt.h",
+		"/Users/BenjaminChia/Desktop/ECS_40/Program_#1/calendar.h",
+		"/Users/BenjaminChia/Desktop/ECS_40/Program_#1/calendar.cpp",
+		"/Users/BenjaminChia/Desktop/ECS_40/Program_#1/main.cpp",
+		"/Users/BenjaminChia/Desktop/ECS_40/Program_#1/day.h",
+		"/Users/BenjaminChia/Desktop/ECS 40/Program #1/calendar.h",
+		"/Users/BenjaminChia/Desktop/ECS 40/Program #1/strtok.c",
+		"/Users/BenjaminChia/Desktop/ECS 40/Program #1/day.h",
+		"/Users/BenjaminChia/Desktop/ECS 40/Program #1/calendar.cpp",
+		"/Users/BenjaminChia/Desktop/ECS 40/Program #1/main.cpp",
+		"/Users/BenjaminChia/Desktop/ECS 40/Program #1/time.h",
+		"/Users/BenjaminChia/Desktop/ECS 40/Program #1/appt.h",
+		"/Users/BenjaminChia/Desktop/ECS 40/Program #1/day.h ",
+		"/Users/BenjaminChia/Desktop/ECS 40/Program #1/Makefile",
+		"/Users/BenjaminChia/ECS_30/skeleton/brians_brain_cellular_automata.c",
+		"/Users/BenjaminChia/ECS_30/skeleton/list.h",
+		"/Users/BenjaminChia/Downloads/HW4Solution/simpleyahtzee.c",
+		"/Users/BenjaminChia/ECS_30/skeleton/list.c",
+		"/Users/BenjaminChia/ECS_30/skeleton/cell_grid.c",
+		"/Users/BenjaminChia/ECS_30/skeleton/cell.h",
+		"/Users/BenjaminChia/ECS_30/skeleton/cell.c",
+		"/Users/BenjaminChia/ECS_30/skeleton/brians_brain.h",
+		"/Users/BenjaminChia/ECS_30/skeleton/brians_brain.c",
+		"/Users/BenjaminChia/ECS_30/skeleton/cell_tester.c",
+		"/Users/BenjaminChia/Desktop/Program7/skeleton/Makefile",
+		"/Users/BenjaminChia/ECS_30/Homework6/Makefile",
+		"/Users/BenjaminChia/Desktop/Program7/skeleton/list.h",
+		"/Users/BenjaminChia/Desktop/Program7/skeleton/list.c",
+		"/Users/BenjaminChia/Desktop/Program7/skeleton/brians_brain_cellular_automata.c",
+		"/Users/BenjaminChia/Desktop/Homework6/connectfour.c",
+		"/Users/BenjaminChia/ECS_30/Homework6/gameboard.c",
+		"/Users/BenjaminChia/Desktop/Homework6/MakeFile",
+		"/Users/BenjaminChia/Desktop/Homework6/gameboard.h",
+		"/Users/BenjaminChia/Desktop/Homework6/gameboard.c",
+		"/Users/BenjaminChia/Downloads/Homework6/gameboard.c",
+		"/Users/BenjaminChia/Downloads/deletespaces.c",
+		"/Users/BenjaminChia/ECS_30/matrixaddition.c",
+		"/Users/BenjaminChia/ECS_30/matrixaddition-3.c",
+		"/Users/BenjaminChia/ECS_30/Makefile",
+		"/Users/BenjaminChia/Downloads/mystringfunctionexamplesources/mystringfunctions-correct.c",
+		"/Users/BenjaminChia/ECS_30/pracreversearray.c",
+		"/Users/BenjaminChia/ECS_30/simpleyahtzee.c",
+		"/Users/BenjaminChia/Desktop/iterativelowercase.c",
+		"/Users/BenjaminChia/Downloads/HW3Solutions/guessyournumber.c",
+		"/Users/BenjaminChia/Desktop/iterativelowercase.c ",
+		"/Users/BenjaminChia/Downloads/Program4Source/simpleyahtzee.c",
+		"/Users/BenjaminChia/ECS_30/squareroot.c",
+		"/Users/BenjaminChia/ECS_30/unitconversion.c",
+		"/Users/BenjaminChia/ECS_30/guessyournumber.c",
+		"/Users/BenjaminChia/ECS_30/charproperties.c",
+		"/Users/BenjaminChia/ECS_30/switch.c",
+		"/Users/BenjaminChia/ECS_30/foobar.c",
+		"/Users/BenjaminChia/ECS_30/roshambo.c",
+		"/Users/BenjaminChia/ECS_30/switch.c ",
+		"/Users/BenjaminChia/ECS_30/midterm1.c",
+		"/Users/BenjaminChia/ECS_30/typeconversion2.c",
+		"/Users/BenjaminChia/ECS_30/typeconversion.c ",
+		"/Users/BenjaminChia/ECS_30/unitconversionALEXA.c",
+		"/Users/BenjaminChia/ECS_30/primerib.c",
+		"/Users/BenjaminChia/ECS_30/finalgrade.c",
+		"/Users/BenjaminChia/ECS_30/annualincome.c",
+		"/Users/BenjaminChia/Desktop/test.c"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"#",
+			"else",
+			"size",
+			"cell",
+			"exit",
+			"coinsinboard",
+			"still_playing",
+			"numRows",
+			"printf",
+			"catergory",
+			"total score",
+			"int roll",
+			"roll",
+			"unscored"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.GitSavvy":
+	{
+		"height": 100.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.show_commit_info":
+	{
+		"height": 100.0
+	},
+	"pinned_build_system": "",
+	"project": "inspiration.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 244.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
