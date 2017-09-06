@@ -1,8 +1,9 @@
 .typewrite {
-  /* background-color:#ce3635; */
   text-align: center;
-  color:#fff;
-  padding-top:10em;
+  color:#040000; 
+  font-size: 30px;
 }
+
+* { color:#0b0a0a; text-decoration: none;}
 
 
