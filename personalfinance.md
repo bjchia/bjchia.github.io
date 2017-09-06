@@ -20,7 +20,10 @@ To-Do/To-Read List:
 * Meal Prep. Buying in bulk saves you so much money. If a typical meal from restaurant costs $8-10, I can meal prep roughly 10 meals of chicken, rice, and broccoli for the same price. 
 * Don't spend impulsively. Before you buy something, wait anywhere from a day to a week to see if you still want it. 
 * Make money work for you by applying to scholarships (note to self: start applying by fall quarter).
+
+## Investing
 * In order to hold the same purchasing power year to year, you must maintain your money at the very least at the same rate of inflation.
+* Go into investing with the mentality that you're prepared to lose the money you invest.
 <br> 
 ----
 
