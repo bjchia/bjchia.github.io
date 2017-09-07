@@ -14,7 +14,12 @@ title: Books
 
 ## Personal Improvement 
 * 
-## Must-Read 
+## Must-Read Fiction
 
-* 
+* The GoldFinch
+* The Orphan Master's Son
+* My Years of Meat
+* The Power of one
+* Tandia
+* The Girl With The Dragon Tatoo
 
