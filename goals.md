@@ -4,15 +4,18 @@ title: Goals
 ---
 
 
-Long Term Goals: 
+## Long Term Goals: 
 
-2017-2018 Goals: 
-
-2016-2017 Goals: 
-
-Fall Quarter
+### 2017-2018 Goals: 
+Fall Quarter 
+1. Bring up GPA with structured, efficient time schedule
+2. Cooking
+  - Asian
+  - Healthy
+  - Salads 
+  - Meal Prep
 
 Winter Quarter 
 
-Spring Quarter 
+Spring Quarter
 
