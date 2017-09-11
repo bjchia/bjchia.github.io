@@ -10,10 +10,10 @@ title: Goals
 Fall Quarter 
 1. Bring up GPA with structured, efficient time schedule
 2. Cooking
-  - Asian
-  - Healthy
-  - Salads 
-  - Meal Prep
+* Asian
+* Healthy
+* Salads 
+* Meal Prep
 
 Winter Quarter 
 
