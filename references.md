@@ -8,6 +8,7 @@ title: References
 [Rylan Schaeffer](http://rylanschaeffer.github.io)
 
 [Mary Serafin](https://www.linkedin.com/in/mlserafin)
+
 Interviewing Tactics: 
 * Who Am I: Purpose Driven, Soulful
   - Who I am as a person to why I'm interviewing now
