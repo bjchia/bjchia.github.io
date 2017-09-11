@@ -15,7 +15,17 @@ title: References
 * Beginning, Middle, and End 
   - First came to UC Davis not entirely sure what to do, after joining different organizations, found I was most passionate about mechanical engineering (industrial design/mechatronics) 
   
-
+[Jennifer Ching](http://jenniferching.weebly.com/)
+### Industrial Design/Engineering
+* Portfolio that demonstrates and desplats your abilities to: 
+  - Look at a problem
+  - Come up with a solution
+  - Sketch Your Ideas 
+* Critical to sketch ideas (prior to prototyping) with specific/intentional design features 
+* If you are able to document and capture your skills and abilities in photos, it will really demonstrate your abilities 
+* Inspiration Portfolios'
+  - https://gjtdesigns.com/
+  - https://www.kodiwhitfield.com/
 
 
  
