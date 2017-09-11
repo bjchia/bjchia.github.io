@@ -27,6 +27,10 @@ title: References
   - https://gjtdesigns.com/
   - https://www.kodiwhitfield.com/
 
+[Michael Mazzoleni](https://www.linkedin.com/in/michael-mazzoleni-96300337)
+### Sports Engineering 
+* Get involved in research on campus, internships/co-ops involving sports technology
+* Find Professors in Davis doing research related to sports engineering 
 
  
  
