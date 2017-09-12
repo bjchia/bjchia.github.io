@@ -10,6 +10,7 @@ title: Books
 ## In Queue
 * How the Paranoid Survive
 * Presence 
+* The Organized Mind
 * Pulitzer Award Winners 
 
 ## Personal Improvement 
