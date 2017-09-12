@@ -24,5 +24,6 @@ title: Professional Development
 ### Networking
 * Every conversation should lead to at least one more contact.
 * [Haseeb](http://haseebq.com/how-to-break-into-tech-job-hunting-and-interviews/)
+* [Bypassing LinkedIn's Commercial Use Limit](http://bit.ly/Search-LinkedIn)
 
 
