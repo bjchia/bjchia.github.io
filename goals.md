@@ -16,6 +16,11 @@ Fall Quarter
    - Meal Prep (Chicken, Ground Turkey)
 
 Winter Break
+1) Scholarship Applications
+   - Asian
+   - Healthy
+   - Salads
+   - Meal Prep (Chicken, Ground Turkey)
 1) Scholarship Applications 
   - UC Davis (Due by end of Year) 
   - Regional San (not sure if open to ME) 
