@@ -21,6 +21,7 @@ Winter Break
   - Regional San (not sure if open to ME) 
   - Study Abroad Grants 
   - Theta Tau (Ask Vega/Austin) 
+  
 2) Apply to 50 internships 
 
 Winter Quarter 
