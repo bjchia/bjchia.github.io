@@ -8,8 +8,8 @@ title: Goals
 
 ### 2017-2018 Goals: 
 Fall Quarter 
-1. Bring up GPA with structured, efficient time schedule
-2. Cooking
+1) Bring up GPA with structured, efficient time schedule
+2) Cooking
 * Asian
 * Healthy
 * Salads 
