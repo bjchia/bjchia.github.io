@@ -30,7 +30,4 @@ EXTRA accomplishments:
 
 All in all, you've worked hard. I know you like to keep your head down and constantly keep working, but be proud of what you've done in a 12 week span as of this date. 
 
-Love, 
-
-Current Benji 
 9/14/2017
