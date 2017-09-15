@@ -2,6 +2,7 @@
 layout: page
 title: Health & Fitness
 ---
+> There is a difference between: “Working out to have summer body” and “Working out because that is who you are.”
 
 ## Proposed Fall Quarter 2017 Work-Out Schedule:
 * Monday: Back/Bicep (Deadlift and Squat)
@@ -18,5 +19,5 @@ title: Health & Fitness
 | Exercise | Sets (4 x 6) | One Rep. Max |
 |-------|--------|---------|
 | Bench Press | 155 | 175 |
-| Deadlift | 225 | N/A |
+| Deadlift | 235 | N/A |
 | Squat | 185 | N/A |
