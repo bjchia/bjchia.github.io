@@ -6,7 +6,9 @@ title: Note to Self (Reminders)
 ## Advice
 * College is your time to explore. Make sure you are continually taking the time to try new things. -Micah Marmorstein 
 
-* Do the scary thing first then be afraid
+* Do the scary thing first then be afraid.
+
+* Always forward.
 
 * Working in your career or on your career.
   - Send out five emails and apply to three internships per day 
