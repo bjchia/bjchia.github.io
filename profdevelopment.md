@@ -14,6 +14,9 @@ title: Professional Development
 
 ## Interviewing 
 
+### Basic Questions 
+
+* [Basic Questions and Responses](https://imgur.com/QKWTId3?r)
 ### Questions to Ask 
 * How would you describe the general culture of the company and the workplace?
 * Why did you choose this company?
