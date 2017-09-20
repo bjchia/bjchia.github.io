@@ -9,6 +9,7 @@ title: Professional Development
 
 * https://www.linkedin.com/pulse/stop-missing-out-hidden-jobs-internships-rohan-punamia
 * https://github.com/cassidoo/getting-a-gig
+* [Getting Hired W/O Relevant Experience](https://www.linkedin.com/pulse/how-get-job-you-dont-have-prior-relevant-experiences-alex-zhou/?trackingId=VVFV7RP59vIz%2B6pWCFcxsg%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3Bv5OictxnSH%2B%2F5p7xc78LXw%3D%3D&licu=urn%3Ali%3Acontrol%3Ad_flagship3_feed-object)
 
 
 
