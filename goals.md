@@ -10,6 +10,7 @@ title: Goals
 2.  Complete an Iron Man
 3. Hit goal weights for "Bro-Splits"
 4. Concrete House 
+5. Drawing (Industrial Design, Sketching, Engineering Designs)
 
 ### 2017-2018 Goals: 
 Fall Quarter 
