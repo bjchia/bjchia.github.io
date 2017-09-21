@@ -25,3 +25,8 @@ title: Note to Self (Reminders)
 
 ## Habits 
 * [Pomodoro Technique](https://en.wikipedia.org/wiki/Pomodoro_Technique)
+
+### Framing The Right Mindset 
+
+* Think like a Child, don't think like a Caveman.
+	-This is how Da Vinci accomplished what he accomplished, he thought like a child and he got better out of your own child like curiosity and wonderment. He talks about it in his Codex's (do recommend). Or was that Ben Franklin's Autobiography (also recommend) where I read that, I'm not sure, one of the two, maybe both, but in general this is how the Polymath becomes good at things.

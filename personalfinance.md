@@ -64,3 +64,5 @@ To-Do/To-Read List:
 
 
 ### Key Points from Random Walk Down Wall Street 
+* Advice for Random Walkers 
+- Look at RWDWS email 

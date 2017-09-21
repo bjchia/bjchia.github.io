@@ -19,5 +19,5 @@ title: Health & Fitness
 | Exercise | Sets (4 x 6) | One Rep. Max |
 |-------|--------|---------|
 | Bench Press | 155 | 175 |
-| Deadlift | 235 | N/A |
+| Deadlift | 245 | N/A |
 | Squat | 185 | N/A |

@@ -46,6 +46,8 @@ What we do know is, if you're not prepared to be wrong, you'll never come up wit
 
 The wind gets stronger the closer you get to the mountain top.
 
+“Gratitude unlocks the fullness of life. It turns what we have into enough, and more. It turns denial into acceptance, chaos to order, confusion to clarity. It can turn a meal into a feast, a house into a home, a stranger into a friend. Gratitude makes sense of our past, brings peace for today and creates a vision for tomorrow”. 
+
 ## Intriguing Notions/Beliefs
 
 “The mass of men lead lives of quiet desperation.” “A stereotyped but unconscious despair
@@ -57,6 +59,8 @@ ourselves."—FRANÇOIS DE LA ROCHEFOUCAULD
 "People hate to think about bad things happening, so they always underestimate their likelihood”- The Big Short
 
 I think therefore I am -Rene Descartes 
+
+We weren't supposed to win we were supposed to always keep struggling for the unattainable.
 
 Is value absolute? (r/writingprompts) 
 
@@ -81,6 +85,8 @@ Fitness as a form of escapism
 With each success should come a bigger more ambitious goal 
 
 There is not one specific meaning in life. You constantly redefine and find meaning through the experiences you undertake in life. 
+
+
 
 The man makes the name, not vice versa.
 
