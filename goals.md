@@ -11,6 +11,13 @@ title: Goals
 3. Hit goal weights for "Bro-Splits"
 4. Concrete House 
 5. Drawing (Industrial Design, Sketching, Engineering Designs)
+6. Attend NBA Hackathon
+7. Summer Fellowships (Look at links I put somewhere)
+8. Finally finish CS50 
+9. Boxing 
+	- Speedbag (Complete)
+	- Stance 
+	- Punching form 
 
 ### 2017-2018 Goals: 
 Fall Quarter 
