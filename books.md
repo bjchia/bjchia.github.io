@@ -13,6 +13,7 @@ title: Books
 * The Organized Mind
 * Pulitzer Award Winners 
 * Codex (Leonardo DaVinci)
+* Steve Jobs (Walter Isaacson)
 
 ## Personal Improvement 
 * 
@@ -23,5 +24,7 @@ title: Books
 * My Years of Meat
 * The Power of one
 * Tandia
-* The Girl With The Dragon Tatoo
+* The Girl With The Dragon Tattoo
+* Elon Musk: Tesla, SpaceX, and the Quest for a Fantastic Future 
+
 
