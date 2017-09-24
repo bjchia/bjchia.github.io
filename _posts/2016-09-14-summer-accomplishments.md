@@ -37,3 +37,9 @@ What I ACTUALLY accomplished:
 All in all, you've worked hard. I know you like to keep your head down and constantly keep working, but be proud of what you've done in a 12 week span as of this date. 
 
 9/14/2017
+
+Additional Accomplishments: 
+1. Finished Elon's Musk Biography 
+2. Robinhood: ETF and Paypal 	
+	- Apple (?) and tech-based ETF nexgt 
+

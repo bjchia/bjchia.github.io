@@ -8,3 +8,9 @@ Consumers want to be healthy, or live a certain lifestyle. What you eat has a di
 Sound Pollution 
 
 Augmented Reality for Teaching 
+
+Design of cities
+
+Transportation systems 
+
+Health monitoring (bioinformatics)
