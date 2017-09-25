@@ -22,11 +22,8 @@ title: Goals
 ### 2017-2018 Goals: 
 Fall Quarter 
 1. Bring up GPA with structured, efficient time schedule
-2. Cooking
-   - Asian
-   - Healthy
-   - Salads
-   - Meal Prep (Chicken, Ground Turkey)
+2. Bulk
+
 
 Winter Break
 1. Scholarship Applications
