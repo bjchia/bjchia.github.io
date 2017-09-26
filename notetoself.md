@@ -15,6 +15,8 @@ title: Note to Self (Reminders)
   
 * “The past is just a story we tell ourselves” *Her* Movie
 
+* If I enjoy taking PHY 9C and ENG 17, then you will know if EE will be a suitable double major or minor
+
 
 <p class="message">
   "...you will become way less concerned with what other people think of you when you realize how seldom they do. "
