@@ -7,17 +7,19 @@ title: Health & Fitness
 ## Proposed Fall Quarter 2017 Work-Out Schedule:
 * Monday: Back/Bicep (Deadlift and Squat)
   -  8:00-9:30 AM
-* Tuesday: Chest/Tricep
+* Tuesday: Chest/Tricep/Light Abs 
   - 8:00-9:30 AM 
-* Friday: Shoulders/Abs
+* Wednesday: Shoulders/Abs (**Optional**) 
+  - 8:00-9:30 AM 
+* Friday: Chest/Tricep/Light Abs
   - 7:00-8:30 AM 
 * Saturday: Back/Bicep (Deadlift and Squat)
   - 9:00-11:00 AM
-* Sunday: Chest/Tricep 
+* Sunday: Shoulders/Abs/Basketball
   - 9:00-11:00 AM
 
 | Exercise | Sets (4 x 6) | One Rep. Max |
 |-------|--------|---------|
-| Bench Press | 155 | 175 |
+| Bench Press | 155 | N/A |
 | Deadlift | 245 | N/A |
 | Squat | 195 | N/A |
