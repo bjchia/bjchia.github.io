@@ -17,6 +17,8 @@ title: Note to Self (Reminders)
 
 * If I enjoy taking PHY 9C and ENG 17, then you will know if EE will be a suitable double major or minor
 
+* Don't lose yourself in the noise. 
+
 
 <p class="message">
   "...you will become way less concerned with what other people think of you when you realize how seldom they do. "
