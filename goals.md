@@ -23,6 +23,9 @@ title: Goals
 Fall Quarter 
 1. Bring up GPA with structured, efficient time schedule
 2. Bulk
+    - 170 Bench (3x6)
+    - 260 Deadlift (3x6)
+    - 225 Squat (3x6)
 
 
 Winter Break
@@ -33,6 +36,7 @@ Winter Break
    - Theta Tau (Ask Vega/Austin)   
 2. Apply to 50 internships 
 	- UC Davis Washington Program
+	- Osaka Summer Abroad Engineering Research (Kris Quon, ask for help)
 
 Winter Quarter 
 
