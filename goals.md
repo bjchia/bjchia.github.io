@@ -32,6 +32,7 @@ Winter Break
    - Study Abroad Grants 
    - Theta Tau (Ask Vega/Austin)   
 2. Apply to 50 internships 
+	- UC Davis Washington Program
 
 Winter Quarter 
 
