@@ -1,6 +1,6 @@
 ---
 layout: post
-title: nervous
+title: Tempering Expectations & Reality 
 ---
 
 School is starting in exactly two days. If I were to characterize my feelings right now, it'd be a mix of a lot of **nervousness** and **excitement**. 
