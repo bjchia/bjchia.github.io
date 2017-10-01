@@ -18,6 +18,7 @@ title: Goals
 	- Speedbag (Complete)
 	- Stance 
 	- Punching form 
+10. Audit classes when I'm working full time. 
 
 ### 2017-2018 Goals: 
 Fall Quarter 
