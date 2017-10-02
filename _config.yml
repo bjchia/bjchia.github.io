@@ -5,7 +5,7 @@
 # Setup
 title:               Brain Flow
 tagline:             'Ordered Chaos'
-description:         'A drawer separating different thoughts, ideas, and projects I've been working on.'
+description:         'A reserved <a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme that places gravity on content with a hidden drawer. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
 url:                 http://lanyon.getpoole.com
 baseurl:             ''
 paginate:            1
