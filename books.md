@@ -8,6 +8,7 @@ title: Books
 </p>
 
 ## In Queue
+* The Little Prince (Recommended by Robin) 
 * How the Paranoid Survive
 * Presence 
 * The Organized Mind
