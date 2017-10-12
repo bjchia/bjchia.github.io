@@ -19,6 +19,8 @@ title: Note to Self (Reminders)
 
 * Don't lose yourself in the noise. 
 
+* [Staying Calm](https://www.linkedin.com/pulse/20140805002649-50578967-how-successful-people-stay-calm/?trk=tod-posts-postall-ptlt&trk=tod-posts-postall-ptlt)
+
 
 <p class="message">
   "...you will become way less concerned with what other people think of you when you realize how seldom they do. "
