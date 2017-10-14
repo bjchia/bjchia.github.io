@@ -19,6 +19,8 @@ title: Note to Self (Reminders)
 
 * Don't lose yourself in the noise. 
 
+* **When you take the pressure off, you have always performed a lot better. Just go into a situation, have fun, and always smile.**
+
 * [Staying Calm](https://www.linkedin.com/pulse/20140805002649-50578967-how-successful-people-stay-calm/?trk=tod-posts-postall-ptlt&trk=tod-posts-postall-ptlt)
 
 
