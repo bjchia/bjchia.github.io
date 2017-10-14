@@ -4,6 +4,9 @@ title: Note to Self (Reminders)
 ---
 
 ## Advice
+
+* **When you take the pressure off, you have always performed a lot better. Just go into a situation, have fun, and always smile.**
+
 * College is your time to explore. Make sure you are continually taking the time to try new things. -Micah Marmorstein 
 
 * Do the scary thing first then be afraid.
@@ -18,8 +21,6 @@ title: Note to Self (Reminders)
 * If I enjoy taking PHY 9C and ENG 17, then you will know if EE will be a suitable double major or minor
 
 * Don't lose yourself in the noise. 
-
-* **When you take the pressure off, you have always performed a lot better. Just go into a situation, have fun, and always smile.**
 
 * [Staying Calm](https://www.linkedin.com/pulse/20140805002649-50578967-how-successful-people-stay-calm/?trk=tod-posts-postall-ptlt&trk=tod-posts-postall-ptlt)
 
