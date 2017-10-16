@@ -19,6 +19,7 @@ title: Goals
 	- Stance 
 	- Punching form 
 10. Audit classes when I'm working full time. 
+11. Big Bang Business Competition (UC Davis)
 
 ### 2017-2018 Goals: 
 Fall Quarter 
