@@ -18,8 +18,8 @@ title: Health & Fitness
 * Sunday: Shoulders/Abs/Basketball
   - 9:00-11:00 AM
 
-| Exercise | Sets (4 x 6) | One Rep. Max |
+| Exercise | Sets (3 x 6) | One Rep. Max |
 |-------|--------|---------|
-| Bench Press | 165 | N/A |
-| Deadlift | 245 | N/A |
-| Squat | 195 | N/A |
+| Bench Press | 160 | N/A |
+| Deadlift | 265 | N/A |
+| Squat | 205 | N/A |
