@@ -13,4 +13,4 @@ Stop seeking external sources for meaning in your life. Stop using sleep as a wa
 
 Reality gives nothing back so don't expext anything. 
 
-For the sake of you, WAKE UP. 
+For the sake of yourr health and you, WAKE UP. 
