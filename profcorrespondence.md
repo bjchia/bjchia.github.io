@@ -17,3 +17,5 @@ Ask for one thing:   "Can I send you my resume for review via email?"
 
 ### [Writing Emails](https://www.linkedin.com/pulse/best-hire-me-email-ive-seen-from-recent-college-grad-ray-carroll/)
 
+### [Cold Emails](https://docs.google.com/document/d/1xMuwOAh4D3LfcuSlr5muNSLertpyBfsp03t4nJ0Qwck/edit?usp=sharing)
+
