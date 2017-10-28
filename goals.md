@@ -7,7 +7,8 @@ title: Goals
 ## Long Term Goals: 
 
 1. Run a Marathon
-2.  Complete an Iron Man
+  - Hit runner's high
+2. Complete an Iron Man
 3. Hit goal weights for "Bro-Splits"
 4. Concrete House 
 5. Drawing (Industrial Design, Sketching, Engineering Designs)
@@ -18,8 +19,10 @@ title: Goals
 	- Speedbag (Complete)
 	- Stance 
 	- Punching form 
+  - Shadow boxing
 10. Audit classes when I'm working full time. 
 11. Big Bang Business Competition (UC Davis)
+  - Ask Mary
 
 ### 2017-2018 Goals: 
 Fall Quarter 
@@ -39,8 +42,17 @@ Winter Break
 2. Apply to 50 internships 
 	- UC Davis Washington Program
 	- Osaka Summer Abroad Engineering Research (Kris Quon, ask for help)
+3. Finish Chrome Extension (InHealth)
+4. Boxing
+  - Shadow boxing (Manny's tips: shadow boxing is how you develop your style)
 
 Winter Quarter 
 
 Spring Quarter
+
+### Miscellaneous Goals/Things I Want TO Do
+1. Build electric bike
+  - Corridor Digital (Wren)
+2. Find a way to get involved working at the Engineering Student Start-Up Center
+
 

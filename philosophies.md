@@ -3,11 +3,18 @@ layout: page
 title: Philosophies 
 ---
 
+In Queue: 
+1. Mark Parker (Nike)
+2. Tim Cook (Apple)
+3. Jimmy Ive
+
 ### Elon Musk & Larry Page 
 
 > Larry Page: "I don't we're doing a good job as a society deciding what things are really important to do. I think we're just not educating people in this kind of general way. You should have a pretty broad engineering and scientific background. You should have some leaderhsip training and a bit of MBA training or knowledge of how to run things, organize stuff, and raise money. I don't think most people are doing that, and it's a big problem. Engineers are usually trained in a very fixed area. When you're able to think about all of these disciplines together, you kind of think differently and can dream of much crazier things and how they might work. That's how we make progress.""
 
 * Musk realized he could tap into their stores of knowledge. He would trap an engineer in the SpaceX factory and set to work grilling him about a type of valve or specialized material. “I thought at first that he was challenging me to see if I knew my stuff,” said Kevin Brogan, one of the early engineers. “Then I realized he was trying to learn things. He would quiz you until he learned ninety percent of what you know.” **People who have spent significant time with Musk will attest to his abilities to absorb incredible quantities of information with near-flawless recall.** It’s one of his most impressive and intimidating skills and seems to work just as well in the present day as it did when he was a **child vacuuming books into his brain.**
+
+* Always moving forward. 
 
 ### Steve Jobs 
 
@@ -24,7 +31,9 @@ title: Philosophies
 
 * On the topic of customer research: "No, because customers don’t know what they want until we’ve shown them.”
 
-* If they knew what they were talking about, he would tolerate the pushback, even admire it. By 1983 those most familiar with his reality distortion field had discovered something further: They could, if necessary, just quietly disregard what he decreed. If they turned out to be right, he would appreciate their renegade attitude and willingness to ignore authority. After all, that’s what he did. 
+* If they knew what they were talking about, he would tolerate the pushback, even admire it...If they turned out to be right, he would appreciate their renegade attitude and willingness to ignore authority. After all, that’s what he did.
+
+* The theory, shared by many, is that the tough love made him wiser and more mature. But it’s not that simple. At the company he founded after being ousted from Apple, Jobs was able to indulge all of his instincts, both good and bad. He was unbound. The result was a series of spectacular products that were dazzling market flops. This was the true learning experience. **What prepared him for the great success he would have in Act III was not his ouster from his Act I at Apple but his brilliant failures in Act II.** 
 
 ## Warren Buffett 
 
@@ -35,6 +44,14 @@ title: Philosophies
 * Chains of habit are too light to be felt until they're too heavy to be broken
 
 * Warren is brutal in appraising his past. He wants to identify misthinkings and avoid them in the future. 
+
+## Kobe Bryant 
+
+* Breaks everything down into the smallest details to thoroughly understand it
+
+* His mentality matches a lot of entrepreneurial great’s (Elon, Buffett)
+
+* Taking his approach in training, footwork, dedication to basketball and seeing how it applies to life (business, PD)
 
 
 

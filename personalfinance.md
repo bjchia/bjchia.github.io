@@ -64,5 +64,7 @@ To-Do/To-Read List:
 
 
 ### Key Points from Random Walk Down Wall Street 
-* Advice for Random Walkers 
-- Look at RWDWS email 
+* Advice for Random Walkers Chapter
+	- Look at RWDWS email 
+* Roth IRA/401k
+* ETF's!!!

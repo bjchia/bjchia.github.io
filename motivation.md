@@ -6,6 +6,9 @@ title: Motivation
 ## Motivation 
 
 “It is not about the cards you are dealt, but how you play the hand.” - Randy Pausch, The Last Lecture
+
+There is nothing noble in being superior to your fellow man. True nobility is being noble to your former self.
+
 The most dangerous thing you can do is play it safe. 
 
 Rejection is a part of life, and not everyone has to like everyone. I should be more like my parents. More trials. More tribulations.  More blood, sweat, and tears. 
