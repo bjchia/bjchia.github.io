@@ -4,16 +4,15 @@ title: Personal Finance
 ---
 
 <p class="message">
-"The poor and the middle class work for money. The rich have money work for them." 
+"You can retire when your investments annually are making more money than your annual income."
 </p>
 
-During the beginning of the summer of 2017, I became highly intrigued with financial education and literacy. As a current college student, I wanted to have a good grasp over my finances and to maintain a steady source of income. A book I highly recommend (recommended to me by a fellow mentor) is called [*Rich Dad Poor Dad*](http://www.lequydonhanoi.edu.vn/upload_images/S%C3%A1ch%20ngo%E1%BA%A1i%20ng%E1%BB%AF/Rich%20Dad%20Poor%20Dad.pdf) by Robert Kiyosaki. Invest in your education outside traditional academia!
+During the beginning of the summer of 2017, I became highly intrigued with financial education and literacy. As a current college student, I wanted to have a good grasp over my finances and to maintain a steady source of income. A book I highly recommend to get started (recommended to me by a fellow mentor) is called [*Rich Dad Poor Dad*](http://www.lequydonhanoi.edu.vn/upload_images/S%C3%A1ch%20ngo%E1%BA%A1i%20ng%E1%BB%AF/Rich%20Dad%20Poor%20Dad.pdf) by Robert Kiyosaki. Invest in your education outside traditional academia!
 
 To-Do/To-Read List:
 
 * *The Intelligient Investor* by Benjamin Graham
-* Robinhood Stock Trading 
-* Mutual Funds, Trusts (Take 1/3 of bank account and invest here)<br>
+* Open Roth IRA (Ask Dad)
 
 ## Advice to college students
 * Make sure to track your expenses. Whenever I spend any form of money, I take note of it within my notes app (transitioning to spreadsheet). You'll be able to deduce what you're spending your money on and break down your expenses. 
@@ -29,6 +28,7 @@ To-Do/To-Read List:
 
 ### Key Points from Rich Dad Poor Dad 
 
+* "The poor and the middle class work for money. The rich have money work for them." 
 * You must know the difference between an asset and a liability, and buy assets. 
 * An intelligent person hires people who are more intelligent than he is. 
 * The rich focus on their asset columns while everyone else focuses on their income statements. 
