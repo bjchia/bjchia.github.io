@@ -45,6 +45,7 @@ Winter Break
 3. Finish Chrome Extension (InHealth)
 4. Boxing
   - Shadow boxing (Manny's tips: shadow boxing is how you develop your style)
+5. Fixing stacking of webpage for website on mobile
 
 Winter Quarter 
 
