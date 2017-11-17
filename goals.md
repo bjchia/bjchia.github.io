@@ -28,9 +28,9 @@ title: Goals
 Fall Quarter 
 1. Bring up GPA with structured, efficient time schedule
 2. Bulk
-    - 170 Bench (3x6)
-    - 260 Deadlift (3x6)
-    - 225 Squat (3x6)
+    - 170 Bench (3x6) (160-165)
+    - 260 Deadlift (3x6) (275)
+    - 225 Squat (3x6) (205)
 
 
 Winter Break
@@ -39,12 +39,13 @@ Winter Break
    - Regional San (not sure if open to ME) 
    - Study Abroad Grants 
    - Theta Tau (Ask Vega/Austin)   
-2. Apply to 50 internships 
+2. Apply to 50 internships
 	- UC Davis Washington Program
 	- Osaka Summer Abroad Engineering Research (Kris Quon, ask for help)
 3. Finish Chrome Extension (InHealth)
-4. Boxing
+4. Boxing/Running during Taiwan
   - Shadow boxing (Manny's tips: shadow boxing is how you develop your style)
+5. Learn about Industrial Design Sketching 
 
 Winter Quarter 
 
@@ -54,5 +55,7 @@ Spring Quarter
 1. Build electric bike
   - Corridor Digital (Wren)
 2. Find a way to get involved working at the Engineering Student Start-Up Center
+3. Learn Industrial Design Stuff
+4. Programming with Arduino Projects
 
 
