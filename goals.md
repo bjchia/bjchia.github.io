@@ -46,6 +46,8 @@ Winter Break
 4. Boxing/Running during Taiwan
   - Shadow boxing (Manny's tips: shadow boxing is how you develop your style)
 5. Learn about Industrial Design Sketching 
+5. Fixing stacking of webpage for website on mobile
+
 
 Winter Quarter 
 
