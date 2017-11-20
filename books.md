@@ -9,17 +9,18 @@ title: Books
 
 ## In Queue
 * The Little Prince (Recommended by Robin) 
-* How the Paranoid Survive
-* Presence 
 * The Organized Mind
 * Pulitzer Award Winners 
 * Codex (Leonardo DaVinci)
-* Steve Jobs (Walter Isaacson)
+* Einstein: His Life and Universe (Walter Isaacson)
+* Leonardo Da Vinci (Walter Isaacson)
+  - What Isaacson wants to understand is what makes some men and women people of genius...the character traits which enable rare individuals with the capacity to permanently change the world with the mere power of their mind.
 * Hitchhiker's Guide to the Galaxy 
 
 ## Personal Improvement 
-* 
-## Must-Read Fiction
+* How the Paranoid Survive
+* Presence 
+## Must-Read 
 
 * The GoldFinch
 * The Orphan Master's Son
@@ -28,5 +29,5 @@ title: Books
 * Tandia
 * The Girl With The Dragon Tattoo
 * Elon Musk: Tesla, SpaceX, and the Quest for a Fantastic Future 
-
+* Steve Jobs (Walter Isaacson)
 
