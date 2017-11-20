@@ -17,6 +17,8 @@ title: Health & Fitness
   - 9:00-11:00 AM
 * Sunday: Shoulders/Abs/Basketball
   - 9:00-11:00 AM
+  
+[Shoulder Rehab](https://www.verywell.com/isometric-shoulder-exercises-2696516)
 
 | Exercise | Sets (3 x 6) | One Rep. Max |
 |-------|--------|---------|
