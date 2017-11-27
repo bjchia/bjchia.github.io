@@ -23,7 +23,7 @@ title: Goals
 10. Audit classes when I'm working full time. 
 11. Big Bang Business Competition (UC Davis)
   - Ask Mary
-
+12. Pursue MBA and Master's Degree (EE or MechE)
 ### 2017-2018 Goals: 
 Fall Quarter 
 1. Bring up GPA with structured, efficient time schedule
