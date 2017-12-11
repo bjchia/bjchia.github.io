@@ -42,11 +42,12 @@ Winter Break
 2. Apply to 50 internships
 	- UC Davis Washington Program
 	- Osaka Summer Abroad Engineering Research (Kris Quon, ask for help)
-3. Finish Chrome Extension (InHealth)
+3. Finish Chrome Extension (InHealth)-Maybe
 4. Boxing/Running during Taiwan
   - Shadow boxing (Manny's tips: shadow boxing is how you develop your style)
 5. Learn about Industrial Design Sketching 
-5. Fixing stacking of webpage for website on mobile
+6. Fixing stacking of webpage for website on mobile
+7. SolidWorks Projects- 3-D printed Bike seat, search for cool projects you would want to model 
 
 
 Winter Quarter 
