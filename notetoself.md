@@ -22,6 +22,8 @@ title: Note to Self (Reminders)
 
 * Don't lose yourself in the noise. 
 
+* A man who wants to lead the orchestra must turn his back to the crowd.
+
 * [Staying Calm](https://www.linkedin.com/pulse/20140805002649-50578967-how-successful-people-stay-calm/?trk=tod-posts-postall-ptlt&trk=tod-posts-postall-ptlt)
 
 

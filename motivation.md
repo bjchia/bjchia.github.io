@@ -5,6 +5,8 @@ title: Motivation
 
 ## Motivation 
 
+“No one saves us but ourselves. No one can and no one may. We ourselves must walk the path.” -Buddha
+
 “It is not about the cards you are dealt, but how you play the hand.” - Randy Pausch, The Last Lecture
 
 There is nothing noble in being superior to your fellow man. True nobility is being noble to your former self.

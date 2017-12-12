@@ -46,6 +46,21 @@ title: References
 5.  Become digitally savvy (CAD, Adobe, Computational design, FEA)
 
 Amy Tang 
+
+Bryan Zhao 
+1. Emphasis on how own self-work and personal projects is more valuable than joining organizations on campus. 
+ 	- BCNC 
+    - Morgan Stanley Financial Training Internship (Didn’t need these orgs to learn financial tips and tricks)
+2. Enjoys doing research 
+	- Worked with Dr. Harry Chang (Biomechanics Research)
+	- Robotics Club
+4. Portfolio of projects 
+    - Designing and playing around with Solidworks 
+    - Arduino Kits 
+    - 20-25 hours on a boeing 747 frame
+5. Religion and Engineering 
+	- 75% DCF and giving back to community 
+	- 25% engineering (understanding how to work the system) 
  
  
  
