@@ -16,12 +16,13 @@ title: Books
 * Leonardo Da Vinci (Walter Isaacson)
   - What Isaacson wants to understand is what makes some men and women people of genius...the character traits which enable rare individuals with the capacity to permanently change the world with the mere power of their mind.
 * Hitchhiker's Guide to the Galaxy 
+* Meditations: A New Translation (Marcus Aurelius)
 
 ## Personal Improvement 
 * How the Paranoid Survive
 * Presence 
-## Must-Read 
 
+## Must-Read 
 * The GoldFinch
 * The Orphan Master's Son
 * My Years of Meat
