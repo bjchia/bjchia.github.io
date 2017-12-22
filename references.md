@@ -46,6 +46,25 @@ title: References
 5.  Become digitally savvy (CAD, Adobe, Computational design, FEA)
 
 Amy Tang 
+1. Worked Johnson & Johnson Co-op (30 hrs/week) while taking two mechE classes and being PI at the same time. 
+  - Didn't know what to expect, 1st internship taught her about what engineering was really like 
+  - **Not knowing everything is okay and it's good to ask questions** 
+2. Interviewing Skills: 
+  - Going to workplace as engineer most people know you have the academia background 
+  - Interview is your personality-presenting the best projection of yourself 
+  - HR pepole don't have engineering background, based on experience/personality based questions 
+  - Important to show you're a normal human being and can work in team settings 
+3. Job Experience 
+  - SSL, more design based, couldn't see herself working there for an extended time 
+  - Lockheed Martin, more project based/meeting with managers 
+4. Pursuing master's degree while working at Lockheed Martin 
+  - Management Master's Degree online 
+  - Companies offering master’s degree while working, easier to do right after college 
+5. College
+  - Doesn’t miss school, but misses being able to see friends everyday at anytime of the day 
+  - Regrets: joining one of the design teams, other design teams, other extracurriculars besides TT 
+6. Having a connection of people 
+  - Found lockheed martin job through mutual connection, 
 
 Bryan Zhao 
 1. Emphasis on how own self-work and personal projects is more valuable than joining organizations on campus. 

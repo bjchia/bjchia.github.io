@@ -4,9 +4,10 @@ title: Philosophies
 ---
 
 In Queue: 
-1. Mark Parker (Nike)
-2. Tim Cook (Apple)
-3. Jimmy Ive
+1. Jeff Bezos (Amazon)
+2. Mark Parker (Nike)
+3. Tim Cook (Apple)
+4. Jimmy Ive
 
 ### Elon Musk & Larry Page 
 
@@ -34,6 +35,11 @@ In Queue:
 * If they knew what they were talking about, he would tolerate the pushback, even admire it...If they turned out to be right, he would appreciate their renegade attitude and willingness to ignore authority. After all, that’s what he did.
 
 * The theory, shared by many, is that the tough love made him wiser and more mature. But it’s not that simple. At the company he founded after being ousted from Apple, Jobs was able to indulge all of his instincts, both good and bad. He was unbound. The result was a series of spectacular products that were dazzling market flops. This was the true learning experience. **What prepared him for the great success he would have in Act III was not his ouster from his Act I at Apple but his brilliant failures in Act II.** 
+
+* “Deciding what not to do is as important as deciding what to do,” he said. “That’s true for companies, and it’s true for products.” 
+
+* One of the first things Jobs did during the product review process was ban PowerPoints. “I hate the way people use slide presentations instead of thinking,” Jobs later recalled. “People would confront a problem by creating a presentation. I wanted them to engage, to hash things out at the table, rather than show a bunch of slides. People who know what they’re talking about don’t need PowerPoint.” 
+
 
 ## Warren Buffett 
 

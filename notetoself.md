@@ -7,6 +7,8 @@ title: Note to Self (Reminders)
 
 * **When you take the pressure off, you have always performed a lot better. Just go into a situation, have fun, and always smile.**
 
+* Most people never pick up the phone and call. Most people never ask, and that's what separates, sometimes, the people who do things from the people who just dream about them.
+
 * College is your time to explore. Make sure you are continually taking the time to try new things. -Micah Marmorstein 
 
 * Do the scary thing first then be afraid.

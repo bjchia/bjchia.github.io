@@ -60,5 +60,6 @@ Spring Quarter
 2. Find a way to get involved working at the Engineering Student Start-Up Center
 3. Learn Industrial Design Stuff
 4. Programming with Arduino Projects
+5. Find a way to get involved doing research at HRVIP and (Sara)
 
 

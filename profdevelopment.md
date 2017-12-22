@@ -10,6 +10,8 @@ title: Professional Development
 * https://www.linkedin.com/pulse/stop-missing-out-hidden-jobs-internships-rohan-punamia
 * https://github.com/cassidoo/getting-a-gig
 * [Getting Hired Without Relevant Experience](https://www.linkedin.com/pulse/how-get-job-you-dont-have-prior-relevant-experiences-alex-zhou/?trackingId=VVFV7RP59vIz%2B6pWCFcxsg%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3Bv5OictxnSH%2B%2F5p7xc78LXw%3D%3D&licu=urn%3Ali%3Acontrol%3Ad_flagship3_feed-object)
+* [Referrals and Getting Hired](https://www.linkedin.com/pulse/what-i-learned-from-going-50-interviews-including-google-belcak/?trk=v-feed&lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3BZjvQV8TziVprV0zmRwqVLg%3D%3D)
+* [Cold Emailing Like a Boss](https://kopywritingkourse.com/heres-how-to-cold-email-like-a-boss/?lipi=urn%3Ali%3Apage%3Ad_flagship3_pulse_read%3BHv9k1GWtRpiJU9Zcl2SAQg%3D%3D)
 
 ## Interviewing 
 
@@ -31,5 +33,5 @@ title: Professional Development
 ### Articles to Read
 
 * [LinkedIn Articles To Read](https://blog.hubspot.com/marketing/top-linkedin-pulse-articles)
-
+* [How to get a job in the NBA](https://cleaningtheglass.com/how-to-get-a-job-in-the-nba/)
 
