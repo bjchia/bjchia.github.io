@@ -32,6 +32,18 @@ Fall Quarter
     - 260 Deadlift (3x6) (275)
     - 225 Squat (3x6) (205)
 
+### 2018 Goals:
+
+1. Conquer personal fitness: strength, cardio, explosiveness 
+2. Focus on relationships and your environment/social settings 
+3. Run a half marathon 
+4. Make one new friend each week-“don’t be a stranger!”
+5. Do one thing each day that pushes me out of my comfort zone 
+6. Arduino Projects 
+7. Be more adaptable socially 
+8. Learn how to close mouth 
+
+
 
 Winter Break
 1. Scholarship Applications

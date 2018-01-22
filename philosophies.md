@@ -59,5 +59,17 @@ In Queue:
 
 * Taking his approach in training, footwork, dedication to basketball and seeing how it applies to life (business, PD)
 
+## Mark Rober 
+
+* Kids are always looking and questioning and making observations about the world around them 
+
+* The most creative people are those who are able to maintain that kid-like approach/view of the world 
+
+* The difficulty lies not so much in developing new ideas but escaping from old ones. 
+
+* Go out and keep practicing things repetitively. Multiple and hundreds of prototypes before one working 
+
+* Here are a few things that come to mind: Seeking out people who know what they're talking about on a particular matter.  Google.  Listening to a couple books a month, mostly non-fiction.
+
 
 

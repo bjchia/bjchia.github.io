@@ -9,6 +9,8 @@ title: Motivation
 
 “It is not about the cards you are dealt, but how you play the hand.” - Randy Pausch, The Last Lecture
 
+Work until your idols become your peers
+
 There is nothing noble in being superior to your fellow man. True nobility is being noble to your former self.
 
 The most dangerous thing you can do is play it safe. 
@@ -32,6 +34,8 @@ Embracing your fears to turn that into the biggest gift in your life
 “If you’re afraid to fail, you’re probably going to fail.”-Kobe Bryant
 
 “The only way of finding the limits of the possible is by going beyond them into the impossible.” -Arthur C. Clarke
+
+Because the strong man who has known power all his life, may lose respect for that power, but a weak man knows the value of strength, and knows compassion.
 
 "Be not afraid of growing slowly. Be afraid of standing still.” -Chinese Proverb      
 

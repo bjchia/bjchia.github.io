@@ -3,6 +3,13 @@ layout: page
 title: Projects 
 ---
 
+
+## Solidworks Projects: 
+1. Bullet Train
+2. V-6 Engine (Youtube-Tutorials)
+3. Batmobile 
+
+
 ## Rain Resistant 3-D Printed Bike Seat 
 1. Bike seat with patterned holes (Model in Solidworks)
 	- SolidWorks Industrial Design? 

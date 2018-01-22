@@ -16,7 +16,6 @@ title: Note to Self (Reminders)
 * Always forward.
 
 * Working in your career or on your career.
-  - Send out five emails and apply to three internships per day 
   
 * “The past is just a story we tell ourselves” *Her* Movie
 
@@ -27,6 +26,10 @@ title: Note to Self (Reminders)
 * A man who wants to lead the orchestra must turn his back to the crowd.
 
 * [Staying Calm](https://www.linkedin.com/pulse/20140805002649-50578967-how-successful-people-stay-calm/?trk=tod-posts-postall-ptlt&trk=tod-posts-postall-ptlt)
+
+* Hope is a good thing, maybe even the best of things and good things never die.
+
+* A smile is the truest form of beauty.
 
 
 <p class="message">
@@ -43,4 +46,6 @@ title: Note to Self (Reminders)
 
 * 80% Mental.
 * Think like a Child, don't think like a Caveman.
-	-This is how Da Vinci accomplished what he accomplished, he thought like a child and he got better out of your own child like curiosity and wonderment. He talks about it in his Codex's (do recommend). Or was that Ben Franklin's Autobiography (also recommend) where I read that, I'm not sure, one of the two, maybe both, but in general this is how the Polymath becomes good at things.
+	- This is how Da Vinci accomplished what he accomplished, he thought like a child and he got better out of your own child like curiosity and wonderment. He talks about it in his Codex's (do recommend). Or was that Ben Franklin's Autobiography (also recommend) where I read that, I'm not sure, one of the two, maybe both, but in general this is how the Polymath becomes good at things.
+* Happiness 
+	- Happiness: It happens pretty rarely but i'll be laying down somewhere and then i start getting this feeling of combined sleepiness/warmth that seems to make everything seem better and lets me appreciate the smaller things, like how soft the thing i'm laying on is or how the sun is peeking through the window or how nice it is to just exist. It can also sort of be described as a constant low euphoria. It doesn't last very long and it only happens when i haven't been doing or thinking about stressful things in a while.
