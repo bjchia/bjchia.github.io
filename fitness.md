@@ -4,6 +4,29 @@ title: Health & Fitness
 ---
 > There is a difference between: “Working out to have summer body” and “Working out because that is who you are.”
 
+## Proposed Winter Quarter 2018 Work-Out Schedule: (February 5th-Ease back into work-out routine)
+* Monday: Chest/Tricep w/Stephen
+  -  8:00-9:30 AM
+* Tuesday: Deadlift/Squat w/Stephen
+  - 8:00-9:30 AM 
+* Wednesday: Shoulders/Abs (**Optional**) 
+  - 8:00-9:30 AM 
+* Friday: Chest/Tricep/Light Abs
+  - 8:00-9:30 AM 
+* Saturday: Back/Bicep (Deadlift and Squat)
+  - 9:00-11:00 AM
+* Sunday: Shoulders/Abs/Basketball
+  - 9:00-11:00 AM
+
+  
+[Shoulder Rehab](https://www.verywell.com/isometric-shoulder-exercises-2696516)
+
+| Exercise | Sets (3 x 6) | One Rep. Max |
+|-------|--------|---------|
+| Bench Press | 165 | 185-195 |
+| Deadlift | 285 | N/A |
+| Squat | 215 | N/A |
+
 ## Proposed Fall Quarter 2017 Work-Out Schedule:
 * Monday: Back/Bicep (Deadlift and Squat)
   -  8:00-9:30 AM
@@ -17,11 +40,3 @@ title: Health & Fitness
   - 9:00-11:00 AM
 * Sunday: Shoulders/Abs/Basketball
   - 9:00-11:00 AM
-  
-[Shoulder Rehab](https://www.verywell.com/isometric-shoulder-exercises-2696516)
-
-| Exercise | Sets (3 x 6) | One Rep. Max |
-|-------|--------|---------|
-| Bench Press | 165 | 185-195 |
-| Deadlift | 285 | N/A |
-| Squat | 215 | N/A |
