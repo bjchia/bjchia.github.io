@@ -32,6 +32,13 @@ Fall Quarter
     - 260 Deadlift (3x6) (275)
     - 225 Squat (3x6) (205)
 
+Winter Quarter
+1. Continue to bulk 
+2. Sketch up Dream home 
+  - Outside mock 
+  - Internal layers with room 
+  - Find best locations 
+
 ### 2018 Goals:
 
 1. Conquer personal fitness: strength, cardio, explosiveness 

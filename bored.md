@@ -12,4 +12,8 @@ title: Things To Do When Bored
 6. Learn piano!!
 	- First step: find keyboard
 7. Continue professional development skills.
-8. Rebuild projects section for website (Reference Mary)
+8. Rebuild projects section for website (Reference Mary/Christian)
+9. Build dream model house in sketchup 
+10. Play basketball! 
+
+
