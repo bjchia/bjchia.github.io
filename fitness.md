@@ -23,20 +23,7 @@ title: Health & Fitness
 
 | Exercise | Sets (3 x 6) | One Rep. Max |
 |-------|--------|---------|
-| Bench Press | 165 | 185-195 |
+| Bench Press | 170 | 185-195 |
 | Deadlift | 285 | N/A |
-| Squat | 215 | N/A |
+| Squat | 245 | N/A |
 
-## Proposed Fall Quarter 2017 Work-Out Schedule:
-* Monday: Back/Bicep (Deadlift and Squat)
-  -  8:00-9:30 AM
-* Tuesday: Chest/Tricep/Light Abs 
-  - 8:00-9:30 AM 
-* Wednesday: Shoulders/Abs (**Optional**) 
-  - 8:00-9:30 AM 
-* Friday: Chest/Tricep/Light Abs
-  - 7:00-8:30 AM 
-* Saturday: Back/Bicep (Deadlift and Squat)
-  - 9:00-11:00 AM
-* Sunday: Shoulders/Abs/Basketball
-  - 9:00-11:00 AM

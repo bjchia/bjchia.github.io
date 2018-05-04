@@ -31,6 +31,7 @@ title: Note to Self (Reminders)
 
 * A smile is the truest form of beauty.
 
+* "It's the concept of radical kindness," she said. "It's about being grateful and appreciative of the love you have in your life."
 
 <p class="message">
   "...you will become way less concerned with what other people think of you when you realize how seldom they do. "

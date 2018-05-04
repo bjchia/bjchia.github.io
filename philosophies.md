@@ -71,5 +71,14 @@ In Queue:
 
 * Here are a few things that come to mind: Seeking out people who know what they're talking about on a particular matter.  Google.  Listening to a couple books a month, mostly non-fiction.
 
+## Leonardo Da Vinci 
+
+* “Ideas are often generated in physical gathering places where people with diverse interests encounter one another serendipitously. That is why Steve Jobs liked his buildings to have a central atrium and why the young Benjamin Franklin founded a club where the most interesting people of Philadelphia would gather every Friday. At the court of Ludovico Sforza, Leonardo found friends who could spark new ideas by rubbing together their diverse passions.”
+
+* “Visualization and drawing became an important component of this process. Not comfortable wrestling with theory, he preferred dealing with knowledge that he could observe and draw.”
+
+* “Deep observation must be done in steps: “If you wish to have a sound knowledge of the forms of objects, begin with the details of them, and do not go on to the second step until you have the first well fixed in memory.”
+
+
 
 

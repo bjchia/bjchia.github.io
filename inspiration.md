@@ -14,3 +14,7 @@ Design of cities
 Transportation systems 
 
 Health monitoring (bioinformatics)
+
+Augmented Reality Retina Curvature Tracking 
+
+HVAC IOT Idea-Daniel 
