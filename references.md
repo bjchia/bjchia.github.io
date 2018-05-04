@@ -80,6 +80,8 @@ Bryan Zhao
 5. Religion and Engineering 
 	- 75% DCF and giving back to community 
 	- 25% engineering (understanding how to work the system) 
+	
+Mark & Andrew Ansell
  
  Andrew & Mark Ansell (Twins from Cal)
  
