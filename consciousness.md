@@ -26,6 +26,8 @@ When studying for an exam or test, wear a perfume/cologne you've never used befo
 
 ### Feeling Lost 
 
+“Every day it gets a little easier, but that’s the hard part. But it does get easier” -Bojack Horseman 
+
 ‘When you feel homesick,’ he said, ‘just look up. Because the moon is the same wherever you go.’
 
 Bad day, not a bad life. There is always some good in a bad day.

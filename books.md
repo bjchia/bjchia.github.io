@@ -11,6 +11,9 @@ title: Books
 ## Current 
 * Leonardo Da Vinci (Walter Isaacson)
   - What Isaacson wants to understand is what makes some men and women people of genius...the character traits which enable rare individuals with the capacity to permanently change the world with the mere power of their mind.
+ * Hitchhiker's Guide to the Galaxy 
+ * Cracking the Product Managament Interview
+ * Deep Work (Cal Newport)
 
 ## In Queue
 * Meditations: A New Translation (Marcus Aurelius)
@@ -19,8 +22,8 @@ title: Books
 * Pulitzer Award Winners 
 * Codex (Leonardo DaVinci)
 * Einstein: His Life and Universe (Walter Isaacson)
-* Hitchhiker's Guide to the Galaxy 
 * The Innovator's Dilemma 
+* Originals: How Non-Conformists Move the World (Adam Grant)
 
 
 ## Personal Improvement 

@@ -58,6 +58,9 @@ In Queue:
 * His mentality matches a lot of entrepreneurial great’s (Elon, Buffett)
 
 * Taking his approach in training, footwork, dedication to basketball and seeing how it applies to life (business, PD)
+* It's important to protect your dreams and imagination, making sure your dreams stay pure
+	- 81 point game against Toronto: He had practiced those shots thousand's of times that he wasn't surprised to score 80+. Visualized since a young age he would score 80-100 points in a game. 
+* **Don’t get caught up with the how of the dream, be unrealistic**
 
 ## Mark Rober 
 

@@ -3,8 +3,6 @@ layout: page
 title: Professional Development 
 ---
 
-
-
 ## Applying 
 
 * https://www.linkedin.com/pulse/stop-missing-out-hidden-jobs-internships-rohan-punamia
