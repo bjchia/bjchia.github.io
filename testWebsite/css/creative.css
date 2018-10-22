@@ -58,6 +58,7 @@ h6 {
 
 .aboutText {
   font-family: 'Open Sans',sans-serif; !important;
+  padding-bottom: 70px;
 }
 
 .aboutHeaderText {
@@ -146,7 +147,7 @@ h6 {
 }
 
 .principles-primary {
-  background: linear-gradient(to bottom, #99ccff 0%, #ffffff 100%);
+  background: #ffffff);
 }
 
 .contact-primary {
@@ -167,6 +168,7 @@ section {
 
 .section-heading {
   margin-top: 0;
+  margin-bottom: 100px;
 }
 
 ::-moz-selection {
@@ -473,6 +475,10 @@ header.masthead p {
 
 .btn-xl {
   padding: 1rem 2rem;
+}
+
+.picturepad {
+  margin-bottom: 20px;
 }
 
 .initiation {
