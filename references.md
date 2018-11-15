@@ -41,26 +41,28 @@ title: References
 4.  Stay current on industry trends (particularly materials) and be ready to be informed enough to invent.  
 5.  Become digitally savvy (CAD, Adobe, Computational design, FEA)
 
-## Amy Tang: TT Alumni
-1. Worked Johnson & Johnson Co-op (30 hrs/week) while taking two mechE classes and being PI at the same time. 
-  - Didn't know what to expect, 1st internship taught her about what engineering was really like 
-  - **Not knowing everything is okay and it's good to ask questions** 
-2. Interviewing Skills: 
-  - Going to workplace as engineer most people know you have the academia background 
-  - Interview is your personality-presenting the best projection of yourself 
-  - HR pepole don't have engineering background, based on experience/personality based questions 
-  - Important to show you're a normal human being and can work in team settings 
-3. Job Experience 
-  - SSL, more design based, couldn't see herself working there for an extended time 
-  - Lockheed Martin, more project based/meeting with managers 
-4. Pursuing master's degree while working at Lockheed Martin 
-  - Management Master's Degree online 
-  - Companies offering master’s degree while working, easier to do right after college 
-5. College
-  - Doesn’t miss school, but misses being able to see friends everyday at anytime of the day 
-  - Regrets: joining one of the design teams, other design teams, other extracurriculars besides TT 
-6. Having a connection of people 
-  - Found lockheed martin job through mutual connection, 
+## Brian Huynh: Cumulus Networks Software Engineer 
+1. Can negotiate salary coming out of college (3-5%)
+2. How to college 101 YouTube video idea (my own channel)
+3. What we’re worth in five years vs what we are worth now to get employees 
+4. Vested stock options 
+  - 5-8% increase in salary for going to grad school 
+5. Continuing passions after college to meet people- how am I going to sustain making new friends and experience 
+6. Creating a working environment that feeds learning 
+7. Start up's with old people, that’s a good sign. People are willing to take a risk to work here 
+
+## Michael Reo: 
+1. Us.pto database 
+2. Patents 
+3. You need to know how to follow before you can lead
+4. NO LOOSELY GOOSEY MINDSET 
+5. You must plan diligently, document everything
+
+Instructables 
+
+3d modeling through step picture tracking 
+
+
 
 ## Bryan Zhao: NASA, UC Davis Student
 1. Emphasis on how own self-work and personal projects is more valuable than joining organizations on campus. 
@@ -95,4 +97,25 @@ title: References
 ## [Erika Javage](https://www.linkedin.com/in/erikajavage/)
 
 ## Mark Ansell 
+
+## Amy Tang: TT Alumni
+1. Worked Johnson & Johnson Co-op (30 hrs/week) while taking two mechE classes and being PI at the same time. 
+  - Didn't know what to expect, 1st internship taught her about what engineering was really like 
+  - **Not knowing everything is okay and it's good to ask questions** 
+2. Interviewing Skills: 
+  - Going to workplace as engineer most people know you have the academia background 
+  - Interview is your personality-presenting the best projection of yourself 
+  - HR pepole don't have engineering background, based on experience/personality based questions 
+  - Important to show you're a normal human being and can work in team settings 
+3. Job Experience 
+  - SSL, more design based, couldn't see herself working there for an extended time 
+  - Lockheed Martin, more project based/meeting with managers 
+4. Pursuing master's degree while working at Lockheed Martin 
+  - Management Master's Degree online 
+  - Companies offering master’s degree while working, easier to do right after college 
+5. College
+  - Doesn’t miss school, but misses being able to see friends everyday at anytime of the day 
+  - Regrets: joining one of the design teams, other design teams, other extracurriculars besides TT 
+6. Having a connection of people 
+  - Found lockheed martin job through mutual connection, 
  

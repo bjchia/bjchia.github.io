@@ -40,6 +40,12 @@ In Queue:
 
 * One of the first things Jobs did during the product review process was ban PowerPoints. “I hate the way people use slide presentations instead of thinking,” Jobs later recalled. “People would confront a problem by creating a presentation. I wanted them to engage, to hash things out at the table, rather than show a bunch of slides. People who know what they’re talking about don’t need PowerPoint.” 
 
+## Phil Knight
+* “But Bowerman wasn’t me. He didn’t take rejection to heart. Like Johnson, when his letters went unanswered, Bowerman simply wrote more. With more underlined words, more exclamation marks.”
+
+* The basic rule of negotiation is to know what you want, what you need to walk away with in order to be whole.
+
+* Leaning back in my recliner each night, staring at the ceiling, I tried to settle myself. I told myself: Life is growth. You grow or you die.
 
 ## Warren Buffett 
 
@@ -74,6 +80,16 @@ In Queue:
 
 * Here are a few things that come to mind: Seeking out people who know what they're talking about on a particular matter.  Google.  Listening to a couple books a month, mostly non-fiction.
 
+## Whitney Wolfe (Bumble)
+
+* You can kill confidence, but you can’t kill ambition 
+
+* Always had an itch to create 
+
+* Taking an unconventional societal trend to build bumble, perspective of societal issues into technology 
+
+* You can reverse engineer anything, but you can’t copy the brand, mission, motive 
+
 ## Leonardo Da Vinci 
 
 * “Ideas are often generated in physical gathering places where people with diverse interests encounter one another serendipitously. That is why Steve Jobs liked his buildings to have a central atrium and why the young Benjamin Franklin founded a club where the most interesting people of Philadelphia would gather every Friday. At the court of Ludovico Sforza, Leonardo found friends who could spark new ideas by rubbing together their diverse passions.”
@@ -81,6 +97,9 @@ In Queue:
 * “Visualization and drawing became an important component of this process. Not comfortable wrestling with theory, he preferred dealing with knowledge that he could observe and draw.”
 
 * “Deep observation must be done in steps: “If you wish to have a sound knowledge of the forms of objects, begin with the details of them, and do not go on to the second step until you have the first well fixed in memory.”
+
+## Kevin Durant 
+* Ego is the downfall of every human,” Durant said. “When you release that shit, you start asking more questions like, ‘How’d you do that move? I want to learn.’ You kind of humble yourself and you look at life as a student. Everybody wants to be a teacher before they learn the whole lesson. That’s your ego. I feel like everybody here kind of went through their lumps and learned the game and now they can give their input. That’s the proper way to do shit.”
 
 
 

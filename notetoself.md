@@ -9,6 +9,8 @@ title: Note to Self (Reminders)
 
 * Most people never pick up the phone and call. Most people never ask, and that's what separates, sometimes, the people who do things from the people who just dream about them.
 
+* "We never lose our demons, we only learn to live above them."
+
 * College is your time to explore. Make sure you are continually taking the time to try new things. -Micah Marmorstein 
 
 * Do the scary thing first then be afraid.
@@ -32,6 +34,12 @@ title: Note to Self (Reminders)
 * A smile is the truest form of beauty.
 
 * "It's the concept of radical kindness," she said. "It's about being grateful and appreciative of the love you have in your life."
+
+* Learn to front-load your pain.
+
+* If you wait until you feel like doing stuff, you’re never going to do it.
+
+* Create a System, Not a Goal
 
 <p class="message">
   "...you will become way less concerned with what other people think of you when you realize how seldom they do. "

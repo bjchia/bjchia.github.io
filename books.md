@@ -9,11 +9,9 @@ title: Books
 
 
 ## Current 
-* Leonardo Da Vinci (Walter Isaacson)
-  - What Isaacson wants to understand is what makes some men and women people of genius...the character traits which enable rare individuals with the capacity to permanently change the world with the mere power of their mind.
- * Hitchhiker's Guide to the Galaxy 
- * Cracking the Product Managament Interview
- * Deep Work (Cal Newport)
+* Shoedog (Phil Knight)
+* Creative Selection: Inside Apple's Design Process During the Golden Age of Steve Jobs
+
 
 ## In Queue
 * Meditations: A New Translation (Marcus Aurelius)
@@ -24,6 +22,7 @@ title: Books
 * Einstein: His Life and Universe (Walter Isaacson)
 * The Innovator's Dilemma 
 * Originals: How Non-Conformists Move the World (Adam Grant)
+* Origin Story: A Big History of Everything, by David Christian
 
 
 ## Personal Improvement 
@@ -39,4 +38,11 @@ title: Books
 * The Girl With The Dragon Tattoo
 * Elon Musk: Tesla, SpaceX, and the Quest for a Fantastic Future 
 * Steve Jobs (Walter Isaacson)
+
+## Read 
+* Leonardo Da Vinci (Walter Isaacson)
+  - What Isaacson wants to understand is what makes some men and women people of genius...the character traits which enable rare individuals with the capacity to permanently change the world with the mere power of their mind.
+ * Hitchhiker's Guide to the Galaxy 
+ * Cracking the Product Managament Interview
+ * Deep Work (Cal Newport)
 

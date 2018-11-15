@@ -18,3 +18,11 @@ Health monitoring (bioinformatics)
 Augmented Reality Retina Curvature Tracking 
 
 HVAC IOT Idea-Daniel 
+
+Alternative to Collegeboard
+
+Wildfire (NPR Podcast)
+
+Instructables 
+
+3d modeling through step picture tracking 
