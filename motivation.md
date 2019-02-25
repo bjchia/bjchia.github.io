@@ -25,7 +25,10 @@ Motivation is bullshit, it comes and goes. Discipline is what will inspire you.
 
 The older you are, the harder you have to work
 
-Embracing your fears to turn that into the biggest gift in your life
+Embracing your fears to turn that into the biggest gift in your 
+
+“The heart cannot be taught in a classroom intellectually, to students mechanically taking notes…. Good, wise hearts are obtained through lifetimes of diligent effort to dig deeply within and heal lifetimes of scars…. You can’t teach it or email it or tweet it. It has to be discovered within the depths of one’s own heart when a person is finally ready to go looking for it, and not before.”
+
 
 **Source of Fountain of Youth: Work**
 
@@ -45,3 +48,4 @@ Dream no small dreams for they have no power to move the hearts of men. - Johann
 
 And we don't have to be those people to learn about rejection, and in my case, rejection was my curse, was my boogeyman. It has bothered me my whole life because I was running away from it. Then I started embracing it. I turned that into the biggest gift in my life.
 Struggle forces us to move when we would otherwise stand still.
+

@@ -111,6 +111,14 @@ Dark chocolate helps with public speaking. -Gabe Jagoe-Seidl
 3. ASK QUESTIONS: About anything, and everything. Politics, history, religion, environment, culture... anything you read about online or in the newspaper. Go deep. Understand world conflicts, understand perspectives. Build an informed opinion (THIS will help you in every interview you EVER sit for.)
 4. And oh, when you add irrepressible curiosity to creativity, you walk the lines of EVERY great individual who ever did great stuff. Anyone. You name it, they've done it.
 
+## Cultural Shifts
+
+“ It occurred to me that this shift might symbolize a shift in culture, a shift from a culture of self-effacement that says “Nobody’s better than me, but I’m no better than anyone else” to a culture of self-promotion that says “Recognize my accomplishments, I’m pretty special.”
+
+“In its most complete meaning, intellectual humility is accurate self-awareness from a distance."
+
+What's the use of surviving if we become just as bad as them?"
+
 ## Miscellaneous 
 
 "Never forget what you are, the rest of the world will not. Wear it like armor and it can never be used to hurt you.” -Tyrion Lannister
