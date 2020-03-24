@@ -45,7 +45,7 @@ html {
 body {
     background: #FFFFFF;
     color: #2c2c2c;
-    font-family: 'quicksand', Arial, sans-serif;
+    font-family: 'Quicksand', sans-serif;
     font-size: 18px;
     line-height: 1.65;
     opacity: 0;
@@ -207,7 +207,7 @@ pre {
 }
 .site-title div { display: inline; }
 .site-tagline {
-    font-family: 'quicksand';
+    font-family: 'Quicksand', sans-serif;
     clear: both;
     margin-bottom: 0px;
     width: 100%;
@@ -602,7 +602,7 @@ pre {
 }
 .thumbnail-description {
     color: #2c2c2c;
-    font-family: 'quicksand', Arial, sans-serif;
+    font-family: 'Quicksand', sans-serif;
     font-size: 16px;
     margin: 0 auto;
     max-height: 5em;
