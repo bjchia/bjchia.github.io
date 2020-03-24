@@ -207,6 +207,7 @@ pre {
 }
 .site-title div { display: inline; }
 .site-tagline {
+    font-family: 'Righteous',helvetica,sans-serif;
     clear: both;
     margin-bottom: 0px;
     width: 100%;
