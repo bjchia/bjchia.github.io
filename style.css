@@ -626,7 +626,7 @@ div.video {
 .no-js div.audio,
 .no-js div.video,
 div.loaded { opacity: 1; }
-div.image img { width: 100%; }
+div.image img { width: 72%; }
  
 .view {
     cursor: -webkit-zoom-in;
@@ -1054,7 +1054,7 @@ nav[role="navigation"] {
     .page-desc h1,
     .page-desc h2,
     .page-desc h3{
-        font-size: 2.8rem;
+        font-size: 2.4rem;
     }
     /*===== Titles =====*/
     .site-title {
