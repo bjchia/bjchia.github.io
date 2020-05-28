@@ -47,7 +47,7 @@ body {
     color: #2c2c2c;
     font-family: 'Quicksand';
     font-size: 18px;
-    line-height: 1.65;
+    line-height: 1;
     opacity: 0;
     overflow-x: hidden;
     transition: opacity 0.25s ease-in 0.1s;
@@ -61,7 +61,7 @@ body.loaded,
 a, a:visited {
     color: #90D4C5;
     text-decoration: none;
-    transition: color 0.1s ease-in-out;
+    transition: color 0.25s ease-in-out;
 }
 a:hover, a:active {
     color: #2c2c2c;
@@ -92,7 +92,7 @@ h4 {
 }
 
 h5 {
-    font-size: 1rem;
+    font-size: 1.4rem;
 }
 
 h6 {
@@ -118,9 +118,10 @@ p,li {
     margin: 0 0 20px;
 }
 small {
-    font-weight: 300;
-    font-size: 1rem;
-    color: #747474
+    font-family: 'Quicksand', sans-serif;
+    font-weight: 200;
+    font-size: 1.35rem;
+    color: #868e96;
 }
 img {
     height: auto;
@@ -130,8 +131,8 @@ img {
 
 hr{
     border: 0;
-    height: 4px;
-    margin: 40px 0;
+    height: 2px;
+    margin: 30px 0;
     background: #000;
 }
 
@@ -218,6 +219,7 @@ pre {
     text-align: left;
     width: 90%;
 }
+
 .site-tagline a,
 .site-tagline a:visited { color: #90D4C5; }
 .site-tagline a:hover {
@@ -862,7 +864,7 @@ nav[role="navigation"] {
     transition: all 0.5s;
 }
 .blog_item h5 {
-    font-size: 0.7em;
+    font-size: 1.4em;
 }
 .blog_item .abs_bg {
     display: block;
@@ -928,6 +930,11 @@ nav[role="navigation"] {
 .page-desc {
     padding: 40px 20px;
     width: 100%;
+}
+
+.page-desc-2 {
+    padding: 80px;
+    width: 60%;
 }
 
 .page-desc img {
@@ -1106,7 +1113,7 @@ nav[role="navigation"] {
         width: 75%;
     }
     .blog_item h5 {
-        font-size: 0.8rem;
+        font-size: 1.4rem;
     }
     .blog_item {
         padding: 100px 50px;
@@ -1317,7 +1324,7 @@ nav[role="navigation"] {
         padding: 200px;
     }
     .blog_item h5 {
-        font-size: 1rem;
+        font-size: 1.4rem;
     }
     /*===== Main Styles =====*/
     h1 {
@@ -1369,6 +1376,7 @@ nav[role="navigation"] {
     background: #888;
     -webkit-animation: finger 2s infinite;
     animation: finger 2s infinite;
+
 }
 
 @-webkit-keyframes intro {
@@ -1383,6 +1391,7 @@ nav[role="navigation"] {
         transform: translateY(0);
     }
 }
+
 
 @keyframes intro {
     0% {
@@ -1418,6 +1427,12 @@ nav[role="navigation"] {
         transform: translateY(20px);
     }
 }
+
+/*Horizontal Line*/
+hr.new1 {
+  height: 4px; 
+  width: 15%;
+  background-color: #90D4C5;
 
 
 

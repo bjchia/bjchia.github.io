@@ -5,12 +5,21 @@
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width" />
     <meta http-equiv="x-ua-compatible" content="ie=edge">
-    <title>BENJAMIN CHIA</title>
-    <link rel ="shortcut icon" href = "img/favicon.ico">
+    <title>Work- Benjamin Chia</title>
  
     <link rel="stylesheet" href="style.css" media="screen" />
+    <link rel="stylesheet" href="style_portfolio.css" media="screen" />
     <link href="https://fonts.googleapis.com/css?family=Quicksand&display=swap" rel="stylesheet">
     <link href="https://fonts.googleapis.com/css?family=Righteous&display=swap" rel="stylesheet">
+
+    <!--Portfolio Plugins--> 
+    <link rel="stylesheet" href="plugins/bootstrap/bootstrap.min.css">
+    <link rel="stylesheet" href="plugins/themify/css/themify-icons.css">
+    <link rel="stylesheet" href="plugins/counto/animate.css">
+    <link rel="stylesheet" href="plugins/aos/aos.css">
+    <link rel="stylesheet" href="plugins/owl-carousel/owl.carousel.min.css">
+    <link rel="stylesheet" href="plugins/owl-carousel/owl.theme.default.min.css">
+    <link rel="stylesheet" href="plugins/magnific-popup/magnific-popup.css">
 
      <script src="scripts/modernizr.js"></script>
 
@@ -60,22 +69,147 @@
     <div class="site-container">
 
         <header class="site-header cf">
-            <div class="site-title"><a href="index.html">bc</a></div>
+            <div class="site-title"><a href="index.html">bc.</a></div>
 
             <div class="cf"></div>
 
             <div class="site-tagline">
-                <p>Hello!  I'm <strong>Benji.</strong> </p>
-                <p> I'm an engineer passionate about disruptive technology currently working at <!--<a href="http://treau.cool" target="_blank">Treau.</a>--> 🤫</p>
-                <hr class = "new1">
-                    <small> Previously: <a href="https://www.northropgrumman.com/" target="_blank">Northrop Grumman</a>, <a href="https://www.bostonscientific.com/en-US/Home.html" target="_blank">Boston Scientific</a> <small>
-                <div class="mouse"> 
+                <p>Hello!  I'm <strong>Benjamin Chia.</strong> </p>
+                <p> I'm an engineer passionate about disruptive technology currently studying at UC Davis. <!--working at <a href="http://treau.cool" target="_blank">Treau</a>.--></p>
+                <div class="mouse">
                 <div class="scroll"></div>
-                </div>
             </div>
             </div>
 
         </header><!-- / .site-header -->
+
+        <!-- POrtfolio start -->
+<section class="portfolio ">
+    <div class="container">
+        <div class="row mb-5">
+            <div class="col-10">
+                <div class="btn-group btn-group-toggle " data-toggle="buttons">
+                  <label class="btn active ">
+                    <input type="radio" name="shuffle-filter" value="all" checked="checked" />All Projects 
+                  </label>
+                  <label class="btn">
+                    <input type="radio" name="shuffle-filter" value="design" />Work
+                  </label>
+                  <label class="btn">
+                    <input type="radio" name="shuffle-filter" value="branding" />Hardware Design
+                  </label>
+                  <label class="btn">
+                    <input type="radio" name="shuffle-filter" value="illustration" /> Mechanical Design
+                  </label>
+                   <label class="btn">
+                    <input type="radio" name="shuffle-filter" value="photo" />Other 
+                  </label>
+                </div>
+            </div>
+        </div>  
+
+        <div class="row shuffle-wrapper portfolio-gallery">
+          <div class="col-lg-4 col-6 mb-4 shuffle-item"  data-groups="[&quot;design&quot;,&quot;illustration&quot;]">
+                <div class="position-relative inner-box">
+                  <!--<div class="image position-relative ">-->
+                   <a href = "northropgrumman.html" >
+                   <img src="img/portfolio-1-1.png" alt="portfolio-image" class="img-fluid w-100 d-block" href = "northropgrumman.html">
+                   <a href = "northropgrumman.html" > </a>
+                    <!--<div class="overlay-box">
+                      <div class="overlay-inner">
+                        <a class="overlay-content" href="portfolio-single.html">
+                          <h5 class="mb-0">Painting</h5>
+                          <p>Design</p>
+                        </a>
+                      </div>
+                    </div>-->
+                
+              </div>
+          </div>
+
+          <div class="col-lg-4 col-6 mb-4 shuffle-item" data-groups="[&quot;branding&quot;]">
+            <div class="position-relative inner-box" >
+                <div class="image position-relative ">
+                   <img src="img/portfolio-2.jpg" alt="portfolio-image" class="img-fluid w-100 d-block">
+                    <div class="overlay-box">
+                      <div class="overlay-inner">
+                            <a class="overlay-content" href="portfolio-single.html">
+                              <h5 class="mb-0">Web app</h5>
+                              <p>Development</p>
+                            </a>
+                        </div> 
+                    </div>
+                </div>
+              </div>
+          </div>
+
+          <div class="col-lg-4 col-6 mb-4 shuffle-item" data-groups="[&quot;illustration&quot;]">
+            <div class="position-relative inner-box">
+                <div class="image position-relative ">
+                   <img src="img/portfolio-3.png" alt="portfolio-image" class="img-fluid w-100 d-block">
+                    <div class="overlay-box">
+                      <div class="overlay-inner">
+                        <a class="overlay-content" href="portfolio-single.html">
+                          <h5 class="mb-0">Business </h5>
+                          <p>marketing</p>
+                        </a>
+                      </div>
+                    </div> 
+                </div>
+            </div>
+          </div>
+
+          <div class="col-lg-4 col-6 mb-4 shuffle-item" data-groups="[&quot;design&quot;,&quot;branding&quot;]">
+            <div class="position-relative inner-box">
+                <div class="image position-relative ">
+                   <img src="img/portfolio-4.jpg" alt="portfolio-image" class="img-fluid w-100 d-block">
+                    <div class="overlay-box">
+                      <div class="overlay-inner">
+                        <a class="overlay-content" href="portfolio-single.html">
+                          <h5 class="mb-0">Portfolio</h5>
+                          <p>Design</p>
+                        </a>
+                      </div>
+                    </div> 
+                </div>
+            </div>
+          </div>
+
+          <div class="col-lg-4 col-6 mb-4 shuffle-item" data-groups="[&quot;illustration&quot;]">
+            <div class="position-relative inner-box">
+                <div class="image position-relative ">
+                   <img src="images/portfolio/6.jpg" alt="portfolio-image" class="img-fluid w-100 d-block">
+                    <div class="overlay-box">
+                      <div class="overlay-inner">
+                        <a class="overlay-content" href="portfolio-single.html">
+                           <h5 class="mb-0 ">Modern web</h5>
+                            <p>Seo</p>
+                        </a>
+                      </div>
+                    </div> 
+                </div>
+            </div>
+          </div>
+
+          <div class="col-lg-4 col-6 mb-4 shuffle-item" data-groups="[&quot;design&quot;,&quot;photo&quot;]">
+            <div class="position-relative inner-box">
+                <div class="image position-relative ">
+                   <img src="images/portfolio/7.jpg" alt="portfolio-image" class="img-fluid w-100 d-block">
+                    <div class="overlay-box">
+                      <div class="overlay-inner">
+                        <a class="overlay-content" href="portfolio-single.html">
+                           <h5 class="mb-0">Agency web</h5>
+                            <p>Design</p>
+                        </a>
+                      </div>
+                    </div> 
+                </div>
+            </div>
+          </div>
+        </div>
+    </div>
+</section>
+<!-- Portfolio End -->
 
         <section class="site-content">
             
@@ -86,14 +220,14 @@
                     <a href="#0" title="Craft Tamale">
                         <div class="thumb">
                             <div data-picture data-alt="">
-                                <div data-src="img/Isometric_Light.jpg"></div>
+                                <div data-src="img/portfolio-1.jpg"></div>
                                 
                                 <!--[if (lt IE 9) & (!IEMobile)]>
                                 <div data-src="img/portfolio-1.jpg"></div>
                                 <![endif]-->
                                 
                                 <noscript>
-                                    <img src="img/Isometric_Light.jpg" alt="" />
+                                    <img src="img/portfolio-1.jpg" alt="" />
                                 </noscript>
                             </div>
                         </div>
@@ -145,17 +279,17 @@
                     </a>
                 </article>
                 <article class="project cf">
-                    <a href="bostonscientific.html" title="Comuna">
+                    <a href="portfolio-item.html" title="Comuna">
                         <div class="thumb">
                             <div data-picture data-alt="">
-                                <div data-src="img/portfolio-3.png"></div>
+                                <div data-src="img/portfolio-3.jpg"></div>
                                 
                                 <!--[if (lt IE 9) & (!IEMobile)]>
                                 <div data-src="img/portfolio-3.jpg"></div>
                                 <![endif]-->
                                 
                                 <noscript>
-                                    <img src="img/portfolio-3.png" alt="" />
+                                    <img src="img/portfolio-3.jpg" alt="" />
                                 </noscript>
                             </div>
                         </div>
@@ -275,10 +409,12 @@
         </section>
 
          <footer class="site-footer cf">
-            <p class="footer-text">Made with ❤ by Benjamin Chia</p>
+            <p class="footer-text">© Copyright Benjamin Chia </p>
             <nav class="languages" role="navigation">
               <ul>
              
+                <li class="active"><a href="#">EN |</a></li>
+                <li><a href="#">FR</a></li>
              
               </ul>
             </nav> 
@@ -290,6 +426,24 @@
     <script src="scripts/jquery.fitvids.js"></script>
     <script src="scripts/jquery.imagesloaded.min.js"></script>
     <script src="scripts/main.js"></script>  
+
+    <!-- jQuery -->
+    <script src="plugins/jQuery/jquery.min.js"></script>
+    <!-- Bootstrap JS -->
+    <script src="plugins/bootstrap/bootstrap.min.js"></script>
+    <script src="plugins/aos/aos.js"></script>
+    <script src="plugins/owl-carousel/owl.carousel.min.js"></script>
+    <script src="plugins/shuffle/shuffle.min.js"></script>
+    <script src="plugins/magnific-popup/jquery.magnific-popup.min.js"></script>
+    <script src="plugins/animated-text/animated-text.js"></script>
+    <script src="plugins/counto/apear.js"></script>
+    <script src="plugins/counto/counTo.js"></script>
+
+    <!-- Google Map -->
+    <script src="plugins/google-map/map.js"></script>
+    <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAkeLMlsiwzp6b3Gnaxd86lvakimwGA6UA&callback=initMap"></script> 
+    <!-- Main Script -->
+    <script src="js/script.js"></script>
  
 
 </body>
