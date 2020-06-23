@@ -103,7 +103,6 @@ h3,
 h4,
 h5,
 h6 {
-    text-transform: uppercase;
     margin: 0 0 10px;
 }
 h4,
@@ -113,7 +112,7 @@ h6 {
 }
 p,li {
     font-weight: 400;
-    font-size: 1.2rem;
+    font-size: 1.25rem;
     line-height: 1.5;
     margin: 0 0 20px;
 }
@@ -123,10 +122,15 @@ small {
     font-size: 1.35rem;
     color: #868e96;
 }
-img {
+/*img {
     height: auto;
     max-width: 100%;
     vertical-align: bottom;
+}*/
+
+img {
+  width: 48%;
+  display: inline-block;
 }
 
 hr{
@@ -856,16 +860,16 @@ nav[role="navigation"] {
 
 
 /*===== News =====*/
-.news .blog_item:nth-child(odd) {  background: #90D4C5; }
+.news .blog_item:nth-child(odd) {  background: #FFFFFF;}
 .news .blog_item:nth-child(even) {  background: #fafbfb; }
 .blog_item {
-    padding: 80px 50px;
+    /*padding: 60px 50px;*/
     position: relative;
-    transition: all 0.5s;
+    transition: all 0.25s;
     cursor: pointer;
 }
 .blog_item h1, .blog_item h5 {
-    transition: all 0.5s;
+    /*transition: all 0.1s;*/
 }
 .blog_item h5 {
     font-size: 1.4em;
@@ -879,7 +883,7 @@ nav[role="navigation"] {
     width: 100%;
     height: 100%;
     background-size: cover;
-    transition: all 0.5s;
+    transition: all 0.25s;
     -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
     filter: alpha(opacity=0);
     -moz-opacity: 0;
@@ -1120,7 +1124,7 @@ nav[role="navigation"] {
         font-size: 1.4rem;
     }
     .blog_item {
-        padding: 100px 50px;
+        /*padding: 100px 50px;*/
     }
     /*===== Footer =====*/
     .site-footer { padding: 40px 60px; }
@@ -1133,7 +1137,7 @@ nav[role="navigation"] {
     /*===== Structures =====*/
     .site-header,
     .page-desc {
-        padding: 80px;
+        padding: 60px;
     }
     .row {
         margin-top: 80px;
@@ -1144,7 +1148,7 @@ nav[role="navigation"] {
     }
     .site-tagline {
         margin-top: 75px;
-        margin-bottom: 350px;
+        margin-bottom: 365px;
     }
     .site-tagline p { 
         font-size: 42px;
@@ -1276,7 +1280,7 @@ nav[role="navigation"] {
     /*===== Structures =====*/
     .site-header,
     .page-desc {
-        padding: 25px 200px;
+        padding: 25px 125px;
     }
     .row {
         margin-top: 60px;
@@ -1322,10 +1326,10 @@ nav[role="navigation"] {
     /*===== Blog =====*/
     .blog_item h1 {
         width: 75%;
-        font-size: 3.2rem;
+        font-size: 2rem;
     }
     .blog_item{
-        padding: 200px;
+        padding: 40px;
     }
     .blog_item h5 {
         font-size: 1.4rem;
@@ -1344,7 +1348,7 @@ nav[role="navigation"] {
     }
 
     h4 {
-        font-size: 1.8rem;
+        font-size: 1.6rem;
     }
 
     h5 {
@@ -1430,6 +1434,20 @@ nav[role="navigation"] {
         -webkit-transform: translateY(20px);
         transform: translateY(20px);
     }
+}
+
+/* Create two equal columns that floats next to each other */
+.column {
+  float: left;
+  width: 50%;
+  padding: 10px;
+}
+
+/* Clear floats after the columns */
+.row2:after {
+  content: "";
+  display: table;
+  clear: both;
 }
 
 /*Horizontal Line*/
