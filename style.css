@@ -1280,7 +1280,7 @@ nav[role="navigation"] {
     /*===== Structures =====*/
     .site-header,
     .page-desc {
-        padding: 25px 125px;
+        padding: 32px 127px;
     }
     .row {
         margin-top: 60px;
@@ -1303,7 +1303,7 @@ nav[role="navigation"] {
     }
     /*===== Navigations =====*/
     .cd-nav-trigger {
-        top: 50px;
+        top: 40px;
         right: 140px;
     }
     .cd-nav .cd-navigation-wrapper {
